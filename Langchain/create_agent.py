@@ -25,7 +25,7 @@ llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash",   # free tier
     temperature=0,
 )
-Creating an agent with tool with LangChain Create-Agent
+#Creating an agent with tool with LangChain Create-Agent
 
 @tool
 def get_weather(city: str) -> str:
