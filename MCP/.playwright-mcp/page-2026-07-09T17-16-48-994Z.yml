@@ -1,0 +1,694 @@
+- generic [active] [ref=f1e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f1e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f1e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-IN
+  - generic [ref=f1e8]:
+    - search [ref=f1e9]:
+      - generic [ref=f1e11]:
+        - generic:
+          - generic:
+            - generic:
+              - img
+        - 'link "World Cup 2026: The art of the header" [ref=f1e13] [cursor=pointer]':
+          - /url: https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQPQgK
+          - 'img "World Cup 2026: The art of the header" [ref=f1e14]'
+        - generic [ref=f1e15]:
+          - generic [ref=f1e16]:
+            - combobox "Search" [ref=f1e19]: recent FIFA match Egypt vs Argentina recent FIFA match Egypt vs Argentina
+            - generic [ref=f1e20]:
+              - button "Clear" [ref=f1e22] [cursor=pointer]:
+                - img [ref=f1e24]
+              - generic [ref=f1e27]:
+                - button "Search by voice" [ref=f1e28] [cursor=pointer]:
+                  - img [ref=f1e29]
+                - button "Search by image" [ref=f1e31] [cursor=pointer]:
+                  - img [ref=f1e32]
+          - button "Search" [ref=f1e34] [cursor=pointer]:
+            - img [ref=f1e37]
+    - generic [ref=f1e39]:
+      - button "Settings" [ref=f1e41] [cursor=pointer]:
+        - img [ref=f1e44]
+      - button "Share" [ref=f1e47] [cursor=pointer]:
+        - img [ref=f1e51]
+      - generic [ref=f1e53]:
+        - button "Google apps" [ref=f1e55] [cursor=pointer]:
+          - img [ref=f1e56]
+        - link "Sign in" [ref=f1e60] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Drecent%2BFIFA%2Bmatch%2BEgypt%2Bvs%2BArgentina%26sca_esv%3D8af8e2959745df44%26source%3Dhp%26ei%3DfddPauzLFPmeseMP8NGK6AQ%26iflsig%3DABILxe8AAAAAak_ljWUrTuEkJqquEHsff7wmp_o6lRFy%26ved%3D0ahUKEwis_vDOjMaVAxV5T2wGHfCoAk0Q4dUDCDA%26uact%3D5%26oq%3Drecent%2BFIFA%2Bmatch%2BEgypt%2Bvs%2BArgentina%26gs_lp%3DEgdnd3Mtd2l6IiRyZWNlbnQgRklGQSBtYXRjaCBFZ3lwdCB2cyBBcmdlbnRpbmFIOlAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB%26sclient%3Dgws-wiz&ec=futura_srp_og_si_72236_p
+  - generic [ref=f1e62]:
+    - navigation [ref=f1e68]:
+      - generic [ref=f1e74]:
+        - list [ref=f1e75]:
+          - listitem [ref=f1e76]:
+            - link "AI Mode" [ref=f1e79] [cursor=pointer]:
+              - /url: /search?q=recent+FIFA+match+Egypt+vs+Argentina&sca_esv=8af8e2959745df44&udm=50&source=hp&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cY2oODYyTyZk24Xz37_7FQ-WwsgSXs3G1Acf3uFzybY10s1hrAwRiNmX-q6YMPsVr2QkqZioRMQKZF9UUINOoBZnwaQLELmD_6kQBvGF_aMyM45UK547PlPXI2XBn76pwCTfnXoLWW5KsqIlXak61-R3HGYRQyQhFAS-XrgtyBhbmVS3MHZ5RvmLD6wKUxomjmuovHw&aep=1&ntc=1&sa=X&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQ2J8OegQIDhAD
+              - generic [ref=f1e82]: AI Mode
+          - listitem [ref=f1e83]:
+            - link "All" [disabled] [ref=f1e84]:
+              - generic [ref=f1e86]: All
+          - listitem [ref=f1e87]:
+            - link "News" [ref=f1e88] [cursor=pointer]:
+              - /url: /search?sca_esv=8af8e2959745df44&q=recent+FIFA+match+Egypt+vs+Argentina&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cY2oODYyTyZk24Xz37_7FQ-WwsgSXs3G1Acf3uFzybY10s1hrAwRiNmX-q6YMPsVr2QkqZioRMQKZF9UUINOoBZnwaQLELmD_6kQBvGF_aMyM45UK547PlPXI2XBn76pwCTfnXoLWW5KsqIlXak61-R3HGYRQyQhFAS-XrgtyBhbmVS3MHZ5RvmLD6wKUxomjmuovHw&sa=X&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQ0pQJegQIFBAB
+              - generic [ref=f1e90]: News
+          - listitem [ref=f1e91]:
+            - link "Videos" [ref=f1e92] [cursor=pointer]:
+              - /url: /search?sca_esv=8af8e2959745df44&udm=7&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cY2oODYyTyZk24Xz37_7FQ-WwsgSXs3G1Acf3uFzybY10s1hrAwRiNmX-q6YMPsVr2QkqZioRMQKZF9UUINOoBZnwaQLELmD_6kQBvGF_aMyM45UK547PlPXI2XBn76pwCTfnXoLWW5KsqIlXak61-R3HGYRQyQhFAS-XrgtyBhbmVS3MHZ5RvmLD6wKUxomjmuovHw&q=recent+FIFA+match+Egypt+vs+Argentina&sa=X&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQtKgLegQIExAB
+              - generic [ref=f1e94]: Videos
+          - listitem [ref=f1e95]:
+            - link "Images" [ref=f1e96] [cursor=pointer]:
+              - /url: /search?sca_esv=8af8e2959745df44&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cY2oODYyTyZk24Xz37_7FQ-WwsgSXs3G1Acf3uFzybY10s1hrAwRiNmX-q6YMPsVr2QkqZioRMQKZF9UUINOoBZnwaQLELmD_6kQBvGF_aMyM45UK547PlPXI2XBn76pwCTfnXoLWW5KsqIlXak61-R3HGYRQyQhFAS-XrgtyBhbmVS3MHZ5RvmLD6wKUxomjmuovHw&q=recent+FIFA+match+Egypt+vs+Argentina&sa=X&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQtKgLegQIEBAB
+              - generic [ref=f1e98]: Images
+          - listitem [ref=f1e99]:
+            - link "Short videos" [ref=f1e100] [cursor=pointer]:
+              - /url: /search?sca_esv=8af8e2959745df44&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cY2oODYyTyZk24Xz37_7FQ-WwsgSXs3G1Acf3uFzybY10s1hrAwRiNmX-q6YMPsVr2QkqZioRMQKZF9UUINOoBZnwaQLELmD_6kQBvGF_aMyM45UK547PlPXI2XBn76pwCTfnXoLWW5KsqIlXak61-R3HGYRQyQhFAS-XrgtyBhbmVS3MHZ5RvmLD6wKUxomjmuovHw&q=recent+FIFA+match+Egypt+vs+Argentina&sa=X&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQs6gLegQIERAB
+              - generic [ref=f1e102]: Short videos
+          - listitem [ref=f1e103]:
+            - link "Forums" [ref=f1e104] [cursor=pointer]:
+              - /url: /search?sca_esv=8af8e2959745df44&udm=18&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cY2oODYyTyZk24Xz37_7FQ-WwsgSXs3G1Acf3uFzybY10s1hrAwRiNmX-q6YMPsVr2QkqZioRMQKZF9UUINOoBZnwaQLELmD_6kQBvGF_aMyM45UK547PlPXI2XBn76pwCTfnXoLWW5KsqIlXak61-R3HGYRQyQhFAS-XrgtyBhbmVS3MHZ5RvmLD6wKUxomjmuovHw&q=recent+FIFA+match+Egypt+vs+Argentina&sa=X&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQs6gLegQIEhAB
+              - generic [ref=f1e106]: Forums
+          - listitem [ref=f1e107]:
+            - button "More filters" [ref=f1e108] [cursor=pointer]:
+              - generic "More filters" [ref=f1e109]:
+                - generic [ref=f1e110]:
+                  - generic [ref=f1e111]: More
+                  - img [ref=f1e113]
+        - button "Tools" [ref=f1e116] [cursor=pointer]:
+          - generic [ref=f1e118]:
+            - generic [ref=f1e119]: Tools
+            - img [ref=f1e121]
+    - heading "Search Results" [level=1] [ref=f1e123]
+    - main [ref=f1e129]:
+      - generic [ref=f1e133]:
+        - generic [ref=f1e137]:
+          - generic [ref=f1e139]:
+            - heading "Top stories" [level=2] [ref=f1e141]:
+              - generic [ref=f1e143]: Top stories
+            - link "Sign in to customise" [ref=f1e145] [cursor=pointer]:
+              - /url: https://accounts.google.com/ServiceLogin?ec=oo-seaport-srp-sp-11135&continue=https://www.google.com/search?q%3Drecent%2BFIFA%2Bmatch%2BEgypt%2Bvs%2BArgentina%26sca_esv%3D8af8e2959745df44%26source%3Dhp%26ei%3DfddPauzLFPmeseMP8NGK6AQ%26iflsig%3DABILxe8AAAAAak_ljWUrTuEkJqquEHsff7wmp_o6lRFy%26ved%3D0ahUKEwis_vDOjMaVAxV5T2wGHfCoAk0Q4dUDCDA%26uact%3D5%26oq%3Drecent%2BFIFA%2Bmatch%2BEgypt%2Bvs%2BArgentina%26gs_lp%3DEgdnd3Mtd2l6IiRyZWNlbnQgRklGQSBtYXRjaCBFZ3lwdCB2cyBBcmdlbnRpbmFIOlAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgB%26sclient%3Dgws-wiz%26ptid%3D11135%26ptt%3D8%26fpts%3D1783617410914
+              - generic [ref=f1e147]:
+                - img [ref=f1e149]
+                - text: Sign in to customise
+          - generic [ref=f1e152]:
+            - generic [ref=f1e153]:
+              - link "Video. Play on Google. 2:11 YouTube · FIFA About this result Highlights | Argentina 3-2 Egypt | FIFA World Cup 2026™ Video 1 day ago" [ref=f1e156] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=-LHb5yN-OzI
+                - generic [ref=f1e157]:
+                  - button "Video. Play on Google. 2:11" [ref=f1e162]:
+                    - generic [ref=f1e165]:
+                      - generic [ref=f1e166]:
+                        - img [ref=f1e167]
+                        - generic [ref=f1e169]: 2:11
+                      - img [ref=f1e172]
+                  - generic [ref=f1e174]:
+                    - generic [ref=f1e176]:
+                      - generic [ref=f1e177]:
+                        - generic [ref=f1e178]: YouTube
+                        - generic [ref=f1e179]: · FIFA
+                      - button "About this result" [ref=f1e182]:
+                        - img [ref=f1e183]
+                    - heading "Highlights | Argentina 3-2 Egypt | FIFA World Cup 2026™" [level=3] [ref=f1e185]
+                    - generic [ref=f1e186]:
+                      - generic [ref=f1e187]: Video
+                      - text: 1 day ago
+              - link "FIFA About this result Argentina fightback stuns Egypt | Match report & highlights 1 day ago" [ref=f1e192] [cursor=pointer]:
+                - /url: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-egypt-match-report-highlights
+                - generic [ref=f1e194]:
+                  - generic [ref=f1e196]:
+                    - generic [ref=f1e199]: FIFA
+                    - button "About this result" [ref=f1e202]:
+                      - img [ref=f1e203]
+                  - heading "Argentina fightback stuns Egypt | Match report & highlights" [level=3] [ref=f1e205]
+                  - generic [ref=f1e206]: 1 day ago
+            - generic [ref=f1e208]:
+              - link "FIFA About this result Argentina v Egypt | Round of 16 | FIFA World Cup 2026™ | Highlights 1 day ago" [ref=f1e211] [cursor=pointer]:
+                - /url: https://www.fifa.com/en/watch/JzfSs2Jwd7yn9Ffowg7YQ
+                - generic [ref=f1e213]:
+                  - generic [ref=f1e215]:
+                    - generic [ref=f1e218]: FIFA
+                    - button "About this result" [ref=f1e221]:
+                      - img [ref=f1e222]
+                  - heading "Argentina v Egypt | Round of 16 | FIFA World Cup 2026™ | Highlights" [level=3] [ref=f1e224]
+                  - generic [ref=f1e225]: 1 day ago
+              - link "The New York Times About this result Egypt’s goal against Argentina should never have been ruled out, but talk of a ‘conspiracy’ is nonsense - The Athletic 1 day ago" [ref=f1e229] [cursor=pointer]:
+                - /url: https://www.nytimes.com/athletic/7430665/2026/07/08/egypt-argentina-world-cup-var-goal-ziko/
+                - generic [ref=f1e234]:
+                  - generic [ref=f1e236]:
+                    - generic [ref=f1e239]: The New York Times
+                    - button "About this result" [ref=f1e242]:
+                      - img [ref=f1e243]
+                  - heading "Egypt’s goal against Argentina should never have been ruled out, but talk of a ‘conspiracy’ is nonsense - The Athletic" [level=3] [ref=f1e245]
+                  - generic [ref=f1e246]: 1 day ago
+          - link "More news" [ref=f1e248] [cursor=pointer]:
+            - /url: /search?sca_esv=8af8e2959745df44&q=recent+FIFA+match+Egypt+vs+Argentina&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQt8YBKAJ6BAgWEAU
+            - separator [ref=f1e249]
+            - generic [ref=f1e250]:
+              - generic [ref=f1e251]: More news
+              - img [ref=f1e253]
+        - generic [ref=f1e269]:
+          - heading "Sports results" [level=2] [ref=f1e270]
+          - generic [ref=f1e271]:
+            - link "Argentina vs Egypt" [ref=f1e272] [cursor=pointer]:
+              - heading "Argentina vs Egypt" [level=3] [ref=f1e275]:
+                - generic [ref=f1e276]: Argentina vs Egypt
+            - link "Full-time score FIFA World Cup 2026™ · Tue, 7 Jul Argentina national football team Argentina national football team 3 - 2 Egypt national football team Egypt national football team Round of 16 Cristian Romero 79' Lionel Messi 83' Enzo Fernández 90 +3' Yasser Ibrahim 15' Mostafa Ziko 67' Match recap, duration 3 minutes and 18 seconds Match recap, duration 2 minutes and 14 seconds" [ref=f1e277]:
+              - generic [ref=f1e282] [cursor=pointer]:
+                - generic [ref=f1e283]:
+                  - generic [ref=f1e284]:
+                    - heading "Full-time score FIFA World Cup 2026™ · Tue, 7 Jul" [level=3] [ref=f1e285]:
+                      - generic [ref=f1e286]:
+                        - generic "Full-time score" [ref=f1e287]: Full-time
+                        - generic [ref=f1e288]:
+                          - generic [ref=f1e289]:
+                            - generic [ref=f1e290]: FIFA World Cup 2026™
+                            - text: ·
+                          - text: Tue, 7 Jul
+                    - generic [ref=f1e291]:
+                      - generic [ref=f1e293]:
+                        - generic [ref=f1e294]:
+                          - link "Argentina national football team" [ref=f1e295]
+                          - link "Argentina national football team" [ref=f1e297]:
+                            - generic [ref=f1e298]:
+                              - generic [ref=f1e299]: Argentina
+                              - text: Argentina
+                        - generic [ref=f1e302]:
+                          - generic [ref=f1e303]: "3"
+                          - generic [ref=f1e304]: "-"
+                          - generic [ref=f1e305]: "2"
+                        - generic [ref=f1e306]:
+                          - link "Egypt national football team" [ref=f1e307]
+                          - link "Egypt national football team" [ref=f1e309]:
+                            - generic [ref=f1e310]:
+                              - generic [ref=f1e311]: Egypt
+                              - text: Egypt
+                      - generic [ref=f1e315]: Round of 16
+                  - generic [ref=f1e317]:
+                    - generic [ref=f1e318]:
+                      - generic [ref=f1e319]:
+                        - text: Cristian Romero
+                        - generic [ref=f1e324]: 79'
+                      - generic [ref=f1e325]:
+                        - text: Lionel Messi
+                        - generic [ref=f1e330]: 83'
+                      - generic [ref=f1e331]:
+                        - text: Enzo Fernández
+                        - generic [ref=f1e335]:
+                          - generic [ref=f1e336]: "90"
+                          - generic [ref=f1e337]: +3'
+                    - img [ref=f1e340]
+                    - generic [ref=f1e350]:
+                      - generic [ref=f1e351]:
+                        - text: Yasser Ibrahim
+                        - generic [ref=f1e356]: 15'
+                      - generic [ref=f1e357]:
+                        - text: Mostafa Ziko
+                        - generic [ref=f1e362]: 67'
+                - generic [ref=f1e367]:
+                  - link "Match recap, duration 3 minutes and 18 seconds" [ref=f1e369]:
+                    - /url: https://www.zee5.com/sports/football/fifa-world-cup/2026/match-clips/0-6-4z5974253/arg-vs-egy-quickfire-highlights-fifa-world-cup-2026/0-1-6z5998701?utm_source=GoogleOneBox&utm_medium=GoogleSearch&utm_campaign=OneBox_quick_fire_highlight
+                    - generic [ref=f1e370]:
+                      - generic:
+                        - text: Match recap
+                        - generic: ·
+                        - text: 3:18
+                  - link "Match recap, duration 2 minutes and 14 seconds" [ref=f1e373]:
+                    - /url: https://www.fifa.com/watch/JzfSs2Jwd7yn9Ffowg7YQ?cid=(p_go-box)(c_fwc)(sc_aramco-h-fwc26)(ssc_fwc-2026)(ma_95)
+                    - generic [ref=f1e374]:
+                      - generic:
+                        - text: Match recap
+                        - generic: ·
+                        - text: 2:14
+            - generic [ref=f1e376]:
+              - group [ref=f1e379]:
+                - button "Feedback" [ref=f1e380] [cursor=pointer]:
+                  - generic [ref=f1e381]: Feedback
+              - link "More about this game" [ref=f1e382] [cursor=pointer]:
+                - generic [ref=f1e384]:
+                  - button "More about this game" [ref=f1e385]:
+                    - img [ref=f1e388]
+                  - generic [ref=f1e390]: More about this game
+        - generic [ref=f1e394]:
+          - generic [ref=f1e396]:
+            - heading "Videos" [level=2] [ref=f1e397]
+            - button "About this result" [ref=f1e398] [cursor=pointer]:
+              - img [ref=f1e401]
+          - generic [ref=f1e404]:
+            - generic [ref=f1e411]:
+              - generic [ref=f1e412]:
+                - link "Highlights | Argentina 3-2 Egypt | FIFA World Cup 2026™ YouTube FIFA 1 day ago" [ref=f1e414] [cursor=pointer]:
+                  - /url: https://www.youtube.com/watch?v=-LHb5yN-OzI
+                  - heading "Highlights | Argentina 3-2 Egypt | FIFA World Cup 2026™ YouTube FIFA 1 day ago" [level=3] [ref=f1e415]:
+                    - generic [ref=f1e418]: Highlights | Argentina 3-2 Egypt | FIFA World Cup 2026™
+                    - generic [ref=f1e420]:
+                      - generic [ref=f1e421]:
+                        - text: YouTube
+                        - generic [ref=f1e422]: · FIFA
+                      - generic [ref=f1e423]: 1 day ago
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - text: YouTube
+                          - generic: · FIFA
+                    - button "About this result" [ref=f1e424] [cursor=pointer]:
+                      - img [ref=f1e427]
+              - button "Highlights | Argentina 3-2 Egypt | FIFA World Cup 2026™ by FIFA on YouTube. Play on Google. 2:11" [ref=f1e429] [cursor=pointer]:
+                - generic [ref=f1e430]:
+                  - img [ref=f1e436]
+                  - generic [ref=f1e439]:
+                    - generic [ref=f1e441]: 2:11
+                    - img [ref=f1e444]
+            - generic [ref=f1e451]:
+              - generic [ref=f1e452]:
+                - link "Messi, Enzo Fernandez Complete Stunning Comeback ... YouTube NDTV Profit 1 day ago" [ref=f1e454] [cursor=pointer]:
+                  - /url: https://www.youtube.com/watch?v=UhnV5zk5N0U
+                  - heading "Messi, Enzo Fernandez Complete Stunning Comeback ... YouTube NDTV Profit 1 day ago" [level=3] [ref=f1e455]:
+                    - generic [ref=f1e458]: Messi, Enzo Fernandez Complete Stunning Comeback ...
+                    - generic [ref=f1e460]:
+                      - generic [ref=f1e461]:
+                        - text: YouTube
+                        - generic [ref=f1e462]: · NDTV Profit
+                      - generic [ref=f1e463]: 1 day ago
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - text: YouTube
+                          - generic: · NDTV Profit
+                    - button "About this result" [ref=f1e464] [cursor=pointer]:
+                      - img [ref=f1e467]
+              - button "Messi, Enzo Fernandez Complete Stunning Comeback ... by NDTV Profit on YouTube. Play on Google. 2:17" [ref=f1e469] [cursor=pointer]:
+                - generic [ref=f1e470]:
+                  - img [ref=f1e473]
+                  - generic [ref=f1e476]:
+                    - generic [ref=f1e478]: 2:17
+                    - img [ref=f1e481]
+            - generic [ref=f1e487]:
+              - generic [ref=f1e488]:
+                - 'link "VIDEO: World Cup Day 27: Egypt exits after controversial loss ... Al Jazeera 8 hours ago" [ref=f1e490] [cursor=pointer]':
+                  - /url: https://www.aljazeera.com/video/2026/7/8/video-world-cup-2026-highlights
+                  - 'heading "VIDEO: World Cup Day 27: Egypt exits after controversial loss ... Al Jazeera 8 hours ago" [level=3] [ref=f1e491]':
+                    - generic [ref=f1e494]: "VIDEO: World Cup Day 27: Egypt exits after controversial loss ..."
+                    - generic [ref=f1e496]:
+                      - generic [ref=f1e497]: Al Jazeera
+                      - generic [ref=f1e498]: 8 hours ago
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Al Jazeera
+                    - button "About this result" [ref=f1e499] [cursor=pointer]:
+                      - img [ref=f1e502]
+              - 'link "VIDEO: World Cup Day 27: Egypt exits after controversial loss ... on Al Jazeera. Play on Al Jazeera. 4:54" [ref=f1e504] [cursor=pointer]':
+                - /url: https://www.aljazeera.com/video/2026/7/8/video-world-cup-2026-highlights
+                - generic [ref=f1e505]:
+                  - img [ref=f1e508]
+                  - generic [ref=f1e513]: 4:54
+            - generic [ref=f1e519]:
+              - generic [ref=f1e520]:
+                - link "Enzo Fernandez Goal | Argentina 3-2 Egypt | FIFA World Cup ... YouTube FIFA 1 day ago" [ref=f1e522] [cursor=pointer]:
+                  - /url: https://www.youtube.com/watch?v=FunGHOVC6sw
+                  - heading "Enzo Fernandez Goal | Argentina 3-2 Egypt | FIFA World Cup ... YouTube FIFA 1 day ago" [level=3] [ref=f1e523]:
+                    - generic [ref=f1e526]: Enzo Fernandez Goal | Argentina 3-2 Egypt | FIFA World Cup ...
+                    - generic [ref=f1e528]:
+                      - generic [ref=f1e529]:
+                        - text: YouTube
+                        - generic [ref=f1e530]: · FIFA
+                      - generic [ref=f1e531]: 1 day ago
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - text: YouTube
+                          - generic: · FIFA
+                    - button "About this result" [ref=f1e532] [cursor=pointer]:
+                      - img [ref=f1e535]
+              - button "Enzo Fernandez Goal | Argentina 3-2 Egypt | FIFA World Cup ... by FIFA on YouTube. Play on Google. 0:09" [ref=f1e537] [cursor=pointer]:
+                - generic [ref=f1e538]:
+                  - img [ref=f1e541]
+                  - generic [ref=f1e544]:
+                    - generic [ref=f1e546]: 0:09
+                    - img [ref=f1e549]
+          - link "View all videos" [ref=f1e553] [cursor=pointer]:
+            - /url: /search?sca_esv=8af8e2959745df44&udm=7&q=recent+FIFA+match+Egypt+vs+Argentina&sa=X&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQ8ccDKAJ6BAg8EAQ
+            - separator [ref=f1e554]
+            - generic [ref=f1e555]:
+              - generic [ref=f1e556]: View all
+              - img [ref=f1e558]
+        - generic [ref=f1e562]:
+          - heading "Web results" [level=2] [ref=f1e563]
+          - generic [ref=f1e564]:
+            - generic [ref=f1e567]:
+              - link "Argentina fightback stuns Egypt | Match report & highlights FIFA https://www.fifa.com › canadamexicousa2026 › articles" [ref=f1e569] [cursor=pointer]:
+                - /url: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-egypt-match-report-highlights
+                - heading "Argentina fightback stuns Egypt | Match report & highlights" [level=3] [ref=f1e570]
+                - generic [ref=f1e576]:
+                  - generic [ref=f1e578]: FIFA
+                  - generic [ref=f1e580]: https://www.fifa.com › canadamexicousa2026 › articles
+              - button "About this result" [ref=f1e583] [cursor=pointer]:
+                - img [ref=f1e586]
+            - generic [ref=f1e589]:
+              - generic [ref=f1e590]: 2 days ago —
+              - generic [ref=f1e591]:
+                - text: Yasser Ibrahim and Mostafa Zico got the goals as
+                - emphasis [ref=f1e592]: Egypt beat Argentina in the Round of 32 of the FIFA World Cup 2026
+                - text: ". Lionel Messi #10 of ..."
+              - link "Read more" [ref=f1e593] [cursor=pointer]:
+                - /url: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-egypt-match-report-highlights#:~:text=Yasser%20Ibrahim%20and%20Mostafa%20Zico,the%20FIFA%20World%20Cup%202026.
+        - generic [ref=f1e597]:
+          - generic [ref=f1e600]:
+            - link "Argentina vs. Egypt (7 Jul, 2026) Live Score ESPN India https://www.espn.in › football › match › gameId" [ref=f1e602] [cursor=pointer]:
+              - /url: https://www.espn.in/football/match/_/gameId/760509
+              - heading "Argentina vs. Egypt (7 Jul, 2026) Live Score" [level=3] [ref=f1e603]
+              - generic [ref=f1e609]:
+                - generic [ref=f1e611]: ESPN India
+                - generic [ref=f1e613]: https://www.espn.in › football › match › gameId
+            - button "About this result" [ref=f1e616] [cursor=pointer]:
+              - img [ref=f1e619]
+          - generic [ref=f1e622]:
+            - generic [ref=f1e623]: 4 days ago —
+            - generic [ref=f1e624]:
+              - text: Live coverage of the
+              - emphasis [ref=f1e625]: Argentina vs. Egypt Fifa World Cup game
+              - text: on ESPN (IN), including live score, highlights and updated stats.
+        - generic [ref=f1e629]:
+          - generic [ref=f1e632]:
+            - 'link "Argentina 3-2 Egypt: FIFA receive complaint from ... Sky Sports https://www.skysports.com › football › news › argentin..." [ref=f1e634] [cursor=pointer]':
+              - /url: https://www.skysports.com/football/news/11095/13561649/argentina-3-2-egypt-fifa-receive-complaint-from-egypt-about-the-refereeing-decisions-in-last-16-defeat
+              - 'heading "Argentina 3-2 Egypt: FIFA receive complaint from ..." [level=3] [ref=f1e635]'
+              - generic [ref=f1e641]:
+                - generic [ref=f1e643]: Sky Sports
+                - generic [ref=f1e645]: https://www.skysports.com › football › news › argentin...
+            - button "About this result" [ref=f1e648] [cursor=pointer]:
+              - img [ref=f1e651]
+          - generic [ref=f1e654]:
+            - generic [ref=f1e655]: 1 day ago —
+            - generic [ref=f1e656]:
+              - emphasis [ref=f1e657]: Egypt head coach Hossam Hassan criticised refereeing
+              - text: during dramatic 3-2 loss to Argentina in World Cup last 16; Enzo Fernandez scored late ...
+        - generic [ref=f1e661]:
+          - generic [ref=f1e664]:
+            - link "Argentina v Egypt | Round of 16 | FIFA World Cup 2026™ FIFA https://www.fifa.com › watch" [ref=f1e666] [cursor=pointer]:
+              - /url: https://www.fifa.com/en/watch/JzfSs2Jwd7yn9Ffowg7YQ
+              - heading "Argentina v Egypt | Round of 16 | FIFA World Cup 2026™" [level=3] [ref=f1e667]
+              - generic [ref=f1e673]:
+                - generic [ref=f1e675]: FIFA
+                - generic [ref=f1e677]: https://www.fifa.com › watch
+            - button "About this result" [ref=f1e680] [cursor=pointer]:
+              - img [ref=f1e683]
+          - generic [ref=f1e686]:
+            - generic [ref=f1e687]: 2 days ago —
+            - generic [ref=f1e688]:
+              - text: Watch highlights of the match between
+              - emphasis [ref=f1e689]: Argentina and Egypt played at Atlanta Stadium on Tuesday 7 July at
+              - text: 12:00 (local time).
+        - generic [ref=f1e693]:
+          - generic [ref=f1e696]:
+            - 'link "Argentina vs Egypt 3-2: FIFA World Cup 2026 last 16 Al Jazeera https://www.aljazeera.com › sports › liveblog › argentin..." [ref=f1e698] [cursor=pointer]':
+              - /url: https://www.aljazeera.com/sports/liveblog/2026/7/7/argentina-vs-egypt-live-fifa-world-cup-2026
+              - 'heading "Argentina vs Egypt 3-2: FIFA World Cup 2026 last 16" [level=3] [ref=f1e699]'
+              - generic [ref=f1e705]:
+                - generic [ref=f1e707]: Al Jazeera
+                - generic [ref=f1e709]: https://www.aljazeera.com › sports › liveblog › argentin...
+            - button "About this result" [ref=f1e712] [cursor=pointer]:
+              - img [ref=f1e715]
+          - generic [ref=f1e718]:
+            - generic [ref=f1e719]: 2 days ago —
+            - generic [ref=f1e720]:
+              - emphasis [ref=f1e721]: Argentina survived a massive scare
+              - text: ⁠and staged ⁠an amazing comeback with three late goals to earn a 3-2 win ⁠over Egypt that sent them through ...
+        - generic [ref=f1e725]:
+          - heading "Short videos" [level=2] [ref=f1e727]
+          - generic [ref=f1e729]:
+            - list [ref=f1e731]:
+              - listitem [ref=f1e732]:
+                - generic [ref=f1e736]:
+                  - generic [ref=f1e738]:
+                    - 'button "Argentina vs Egypt Highlights: Messi Inspires Argentina''s ... by NDTV on YouTube. Play on Google. 1:01" [ref=f1e740] [cursor=pointer]':
+                      - generic [ref=f1e747]:
+                        - generic [ref=f1e748]:
+                          - img [ref=f1e749]
+                          - generic [ref=f1e751]: 1:01
+                        - img [ref=f1e754]
+                    - 'link "Argentina vs Egypt Highlights: Messi Inspires Argentina''s ... YouTube · NDTV" [ref=f1e757] [cursor=pointer]':
+                      - /url: https://www.youtube.com/shorts/rSFWHK2B7LY
+                      - generic [ref=f1e758]:
+                        - 'heading "Argentina vs Egypt Highlights: Messi Inspires Argentina''s ..." [level=3] [ref=f1e760]':
+                          - generic [ref=f1e761]: "Argentina vs Egypt Highlights: Messi Inspires Argentina's ..."
+                        - generic [ref=f1e766]: YouTube · NDTV
+                  - button "About this result" [ref=f1e770] [cursor=pointer]:
+                    - img [ref=f1e773]
+              - listitem [ref=f1e775]:
+                - generic [ref=f1e778]:
+                  - generic [ref=f1e780]:
+                    - link "Egypt's dramatic 3-2 defeat to Argentina has sparked online ... by The National News on Instagram. Play on Instagram. 0:52" [ref=f1e782] [cursor=pointer]:
+                      - /url: https://www.instagram.com/reel/Dah7fw3AOdd/
+                      - generic [ref=f1e787]:
+                        - img [ref=f1e788]
+                        - generic [ref=f1e790]: 0:52
+                    - link "Egypt's dramatic 3-2 defeat to Argentina has sparked online ... Instagram · The National News" [ref=f1e792] [cursor=pointer]:
+                      - /url: https://www.instagram.com/reel/Dah7fw3AOdd/
+                      - generic [ref=f1e793]:
+                        - heading "Egypt's dramatic 3-2 defeat to Argentina has sparked online ..." [level=3] [ref=f1e795]:
+                          - generic [ref=f1e796]: Egypt's dramatic 3-2 defeat to Argentina has sparked online ...
+                        - generic [ref=f1e801]: Instagram · The National News
+                  - button "About this result" [ref=f1e805] [cursor=pointer]:
+                    - img [ref=f1e808]
+              - listitem [ref=f1e810]:
+                - generic [ref=f1e813]:
+                  - generic [ref=f1e815]:
+                    - link "Was the Argentina Egypt match the worst officiating at the ... by Jeremy Lynch on Instagram. Play on Instagram. 1:12" [ref=f1e817] [cursor=pointer]:
+                      - /url: https://www.instagram.com/reel/Dai90_2o_ia/
+                      - generic [ref=f1e822]:
+                        - img [ref=f1e823]
+                        - generic [ref=f1e825]: 1:12
+                    - link "Was the Argentina Egypt match the worst officiating at the ... Instagram · Jeremy Lynch" [ref=f1e827] [cursor=pointer]:
+                      - /url: https://www.instagram.com/reel/Dai90_2o_ia/
+                      - generic [ref=f1e828]:
+                        - heading "Was the Argentina Egypt match the worst officiating at the ..." [level=3] [ref=f1e830]:
+                          - generic [ref=f1e831]: Was the Argentina Egypt match the worst officiating at the ...
+                        - generic [ref=f1e836]: Instagram · Jeremy Lynch
+                  - button "About this result" [ref=f1e840] [cursor=pointer]:
+                    - img [ref=f1e843]
+              - listitem [ref=f1e845]:
+                - generic [ref=f1e849]:
+                  - generic [ref=f1e851]:
+                    - button "Argentina vs Egypt | Full Match Highlights | FIFA World Cup ... by Khondokar Shawon on YouTube. Play on Google. 0:40" [ref=f1e853] [cursor=pointer]:
+                      - generic [ref=f1e857]:
+                        - generic [ref=f1e858]:
+                          - img [ref=f1e859]
+                          - generic [ref=f1e861]: 0:40
+                        - img [ref=f1e864]
+                    - link "Argentina vs Egypt | Full Match Highlights | FIFA World Cup ... YouTube · Khondokar Shawon" [ref=f1e867] [cursor=pointer]:
+                      - /url: https://www.youtube.com/watch?v=IDy_WYmKuhA
+                      - generic [ref=f1e868]:
+                        - heading "Argentina vs Egypt | Full Match Highlights | FIFA World Cup ..." [level=3] [ref=f1e870]:
+                          - generic [ref=f1e871]: Argentina vs Egypt | Full Match Highlights | FIFA World Cup ...
+                        - generic [ref=f1e876]: YouTube · Khondokar Shawon
+                  - button "About this result" [ref=f1e880] [cursor=pointer]:
+                    - img [ref=f1e883]
+              - listitem [ref=f1e885]:
+                - generic [ref=f1e888]:
+                  - generic [ref=f1e890]:
+                    - 'link "Just when I thought Egypt had this... #WorldCup #Argentina ... by Trevor Noah on Instagram. Play on Instagram. 0:31" [ref=f1e892] [cursor=pointer]':
+                      - /url: https://www.instagram.com/reel/DagDXoeFMHc/
+                      - generic [ref=f1e897]:
+                        - img [ref=f1e898]
+                        - generic [ref=f1e900]: 0:31
+                    - 'link "Just when I thought Egypt had this... #WorldCup #Argentina ... Instagram · Trevor Noah" [ref=f1e902] [cursor=pointer]':
+                      - /url: https://www.instagram.com/reel/DagDXoeFMHc/
+                      - generic [ref=f1e903]:
+                        - 'heading "Just when I thought Egypt had this... #WorldCup #Argentina ..." [level=3] [ref=f1e905]':
+                          - generic [ref=f1e906]: "Just when I thought Egypt had this... #WorldCup #Argentina ..."
+                        - generic [ref=f1e911]: Instagram · Trevor Noah
+                  - button "About this result" [ref=f1e915] [cursor=pointer]:
+                    - img [ref=f1e918]
+              - listitem [ref=f1e920]:
+                - generic [ref=f1e923]:
+                  - generic [ref=f1e925]:
+                    - link "Argentina Vs Egypt | 2026 FIFA World Cup by IShowSpeed on Instagram. Play on Instagram. 0:43" [ref=f1e927] [cursor=pointer]:
+                      - /url: https://www.instagram.com/reel/DagVDj-AShx/
+                      - generic [ref=f1e932]:
+                        - img [ref=f1e933]
+                        - generic [ref=f1e935]: 0:43
+                    - link "Argentina Vs Egypt | 2026 FIFA World Cup Instagram · IShowSpeed" [ref=f1e937] [cursor=pointer]:
+                      - /url: https://www.instagram.com/reel/DagVDj-AShx/
+                      - generic [ref=f1e938]:
+                        - heading "Argentina Vs Egypt | 2026 FIFA World Cup" [level=3] [ref=f1e940]:
+                          - generic [ref=f1e941]: Argentina Vs Egypt | 2026 FIFA World Cup
+                        - generic [ref=f1e946]: Instagram · IShowSpeed
+                  - button "About this result" [ref=f1e950] [cursor=pointer]:
+                    - img [ref=f1e953]
+              - listitem [ref=f1e955]:
+                - generic [ref=f1e958]:
+                  - generic [ref=f1e960]:
+                    - link "Argentina vs Egypt Quick Highlights | 2026 FIFA World Cup ... by FOX Sports on FOX Sports. Play on FOX Sports. 1:30" [ref=f1e962] [cursor=pointer]:
+                      - /url: https://www.foxsports.com/watch-vertical/fmc-jq66s30ven9c4c9m
+                      - generic [ref=f1e967]:
+                        - img [ref=f1e968]
+                        - generic [ref=f1e970]: 1:30
+                    - link "Argentina vs Egypt Quick Highlights | 2026 FIFA World Cup ... FOX Sports · FOX Sports" [ref=f1e972] [cursor=pointer]:
+                      - /url: https://www.foxsports.com/watch-vertical/fmc-jq66s30ven9c4c9m
+                      - generic [ref=f1e973]:
+                        - heading "Argentina vs Egypt Quick Highlights | 2026 FIFA World Cup ..." [level=3] [ref=f1e975]:
+                          - generic [ref=f1e976]: Argentina vs Egypt Quick Highlights | 2026 FIFA World Cup ...
+                        - generic [ref=f1e981]: FOX Sports · FOX Sports
+                  - button "About this result" [ref=f1e985] [cursor=pointer]:
+                    - img [ref=f1e988]
+              - listitem [ref=f1e990]:
+                - generic [ref=f1e994]:
+                  - generic [ref=f1e996]:
+                    - button "Argentina vs Egypt 3-2 Full Match Highlights | Last-Minute ... by CR 7 EDIT on YouTube. Play on Google. 0:26" [ref=f1e998] [cursor=pointer]:
+                      - generic [ref=f1e1002]:
+                        - generic [ref=f1e1003]:
+                          - img [ref=f1e1004]
+                          - generic [ref=f1e1006]: 0:26
+                        - img [ref=f1e1009]
+                    - link "Argentina vs Egypt 3-2 Full Match Highlights | Last-Minute ... YouTube · CR 7 EDIT" [ref=f1e1012] [cursor=pointer]:
+                      - /url: https://www.youtube.com/watch?v=1Cs6TefH8z0
+                      - generic [ref=f1e1013]:
+                        - heading "Argentina vs Egypt 3-2 Full Match Highlights | Last-Minute ..." [level=3] [ref=f1e1015]:
+                          - generic [ref=f1e1016]: Argentina vs Egypt 3-2 Full Match Highlights | Last-Minute ...
+                        - generic [ref=f1e1021]: YouTube · CR 7 EDIT
+                  - button "About this result" [ref=f1e1025] [cursor=pointer]:
+                    - img [ref=f1e1028]
+              - listitem [ref=f1e1030]:
+                - generic [ref=f1e1034]:
+                  - generic [ref=f1e1036]:
+                    - button "Argentina vs Egypt 3-2 Highlights | FIFA World Cup 2026 by Football Hits on YouTube. Play on Google. 0:55" [ref=f1e1038] [cursor=pointer]:
+                      - generic [ref=f1e1042]:
+                        - generic [ref=f1e1043]:
+                          - img [ref=f1e1044]
+                          - generic [ref=f1e1046]: 0:55
+                        - img [ref=f1e1049]
+                    - link "Argentina vs Egypt 3-2 Highlights | FIFA World Cup 2026 YouTube · Football Hits" [ref=f1e1052] [cursor=pointer]:
+                      - /url: https://www.youtube.com/watch?v=BUL4VToCecQ
+                      - generic [ref=f1e1053]:
+                        - heading "Argentina vs Egypt 3-2 Highlights | FIFA World Cup 2026" [level=3] [ref=f1e1055]:
+                          - generic [ref=f1e1056]: Argentina vs Egypt 3-2 Highlights | FIFA World Cup 2026
+                        - generic [ref=f1e1061]: YouTube · Football Hits
+                  - button "About this result" [ref=f1e1065] [cursor=pointer]:
+                    - img [ref=f1e1068]
+              - listitem [ref=f1e1070]:
+                - generic [ref=f1e1074]:
+                  - generic [ref=f1e1076]:
+                    - button "How Argentina's gritty win vs Egypt shows the importance of ... by Sports Today on YouTube. Play on Google. 1:45" [ref=f1e1078] [cursor=pointer]:
+                      - generic [ref=f1e1082]:
+                        - generic [ref=f1e1083]:
+                          - img [ref=f1e1084]
+                          - generic [ref=f1e1086]: 1:45
+                        - img [ref=f1e1089]
+                    - link "How Argentina's gritty win vs Egypt shows the importance of ... YouTube · Sports Today" [ref=f1e1092] [cursor=pointer]:
+                      - /url: https://www.youtube.com/shorts/S3T7f_7XOOo
+                      - generic [ref=f1e1093]:
+                        - heading "How Argentina's gritty win vs Egypt shows the importance of ..." [level=3] [ref=f1e1095]:
+                          - generic [ref=f1e1096]: How Argentina's gritty win vs Egypt shows the importance of ...
+                        - generic [ref=f1e1101]: YouTube · Sports Today
+                  - button "About this result" [ref=f1e1105] [cursor=pointer]:
+                    - img [ref=f1e1108]
+            - button [ref=f1e1110] [cursor=pointer]:
+              - img [ref=f1e1113]
+          - link "More short videos" [ref=f1e1116] [cursor=pointer]:
+            - /url: /search?q=recent+FIFA+match+Egypt+vs+Argentina&sca_esv=8af8e2959745df44&udm=39&sa=X&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQ3egMegQILxAS
+            - separator [ref=f1e1117]
+            - generic [ref=f1e1118]:
+              - generic [ref=f1e1119]: More short videos
+              - img [ref=f1e1121]
+        - generic [ref=f1e1125]:
+          - heading "Web results" [level=2] [ref=f1e1126]
+          - generic [ref=f1e1127]:
+            - generic [ref=f1e1130]:
+              - link "Egypt's goal against Argentina should never have been ... The New York Times https://www.nytimes.com › athletic › 2026/07/08 › egy..." [ref=f1e1132] [cursor=pointer]:
+                - /url: https://www.nytimes.com/athletic/7430665/2026/07/08/egypt-argentina-world-cup-var-goal-ziko/
+                - heading "Egypt's goal against Argentina should never have been ..." [level=3] [ref=f1e1133]
+                - generic [ref=f1e1139]:
+                  - generic [ref=f1e1141]: The New York Times
+                  - generic [ref=f1e1143]: https://www.nytimes.com › athletic › 2026/07/08 › egy...
+              - button "About this result" [ref=f1e1146] [cursor=pointer]:
+                - img [ref=f1e1149]
+            - generic [ref=f1e1152]:
+              - generic [ref=f1e1153]: 1 day ago —
+              - generic [ref=f1e1154]:
+                - emphasis [ref=f1e1155]: Argentina came from 2-0 down to win 3-2
+                - text: in a thrilling yet controversial World Cup last-16 match against Egypt. Others in the game have been ...
+              - link "Read more" [ref=f1e1156] [cursor=pointer]:
+                - /url: https://www.nytimes.com/athletic/7430665/2026/07/08/egypt-argentina-world-cup-var-goal-ziko/#:~:text=Argentina%20came%20from%202%2D0%20down,game%20have%20been%20sucked%20in.
+        - generic [ref=f1e1163]:
+          - generic [ref=f1e1166]:
+            - 'link "Argentina Vs Egypt LIVE: FIFA World Cup 2026 Round of 16 ... YouTube · CNBC-TV18 11.3L+ views · 1 day ago" [ref=f1e1168] [cursor=pointer]':
+              - /url: https://www.youtube.com/watch?v=iNT7e6wkZpk
+              - 'heading "Argentina Vs Egypt LIVE: FIFA World Cup 2026 Round of 16 ..." [level=3] [ref=f1e1169]'
+              - generic [ref=f1e1175]:
+                - generic [ref=f1e1177]: YouTube · CNBC-TV18
+                - generic [ref=f1e1179]: 11.3L+ views · 1 day ago
+            - button "About this result" [ref=f1e1182] [cursor=pointer]:
+              - img [ref=f1e1185]
+          - generic [ref=f1e1187]:
+            - 'button "Argentina Vs Egypt LIVE: FIFA World Cup 2026 Round of 16 ... by CNBC-TV18 on YouTube. Play on Google. 11:54:58" [ref=f1e1188] [cursor=pointer]':
+              - generic [ref=f1e1190]:
+                - img [ref=f1e1193]
+                - generic [ref=f1e1196]:
+                  - generic [ref=f1e1198]: 11:54:58
+                  - img [ref=f1e1201]
+            - generic [ref=f1e1204]: "Argentina Vs Egypt LIVE: FIFA World Cup 2026 Round of 16 Knockout Match | Messi Vs Salah | CNBC TV18 V/C: Reuters/AP Argentine fans watch ..."
+      - navigation [ref=f1e1207]:
+        - heading "Page navigation" [level=1] [ref=f1e1208]
+        - text: "1"
+        - link "Page 2" [ref=f1e1211] [cursor=pointer]:
+          - /url: /search?q=recent+FIFA+match+Egypt+vs+Argentina&sca_esv=8af8e2959745df44&ei=gtdPauLuG7_a4-EPq-iq2Ao&start=10&sa=N&sstk=AU9db-DxRuBs5YVdMhTdPb-8c1xV_ZnGQUohKpZI3j4YsYM0o3rdshhKEkq9GUxVAXLcee0kIToiUJSjW4LSBy_kRP0A_AmQGASDEQ&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQ8tMDegQILhAE
+          - text: "2"
+        - link "Page 3" [ref=f1e1213] [cursor=pointer]:
+          - /url: /search?q=recent+FIFA+match+Egypt+vs+Argentina&sca_esv=8af8e2959745df44&ei=gtdPauLuG7_a4-EPq-iq2Ao&start=20&sa=N&sstk=AU9db-DxRuBs5YVdMhTdPb-8c1xV_ZnGQUohKpZI3j4YsYM0o3rdshhKEkq9GUxVAXLcee0kIToiUJSjW4LSBy_kRP0A_AmQGASDEQ&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQ8tMDegQILhAG
+          - text: "3"
+        - link "Page 4" [ref=f1e1215] [cursor=pointer]:
+          - /url: /search?q=recent+FIFA+match+Egypt+vs+Argentina&sca_esv=8af8e2959745df44&ei=gtdPauLuG7_a4-EPq-iq2Ao&start=30&sa=N&sstk=AU9db-DxRuBs5YVdMhTdPb-8c1xV_ZnGQUohKpZI3j4YsYM0o3rdshhKEkq9GUxVAXLcee0kIToiUJSjW4LSBy_kRP0A_AmQGASDEQ&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQ8tMDegQILhAI
+          - text: "4"
+        - link "Page 5" [ref=f1e1217] [cursor=pointer]:
+          - /url: /search?q=recent+FIFA+match+Egypt+vs+Argentina&sca_esv=8af8e2959745df44&ei=gtdPauLuG7_a4-EPq-iq2Ao&start=40&sa=N&sstk=AU9db-DxRuBs5YVdMhTdPb-8c1xV_ZnGQUohKpZI3j4YsYM0o3rdshhKEkq9GUxVAXLcee0kIToiUJSjW4LSBy_kRP0A_AmQGASDEQ&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQ8tMDegQILhAK
+          - text: "5"
+        - link "Page 6" [ref=f1e1219] [cursor=pointer]:
+          - /url: /search?q=recent+FIFA+match+Egypt+vs+Argentina&sca_esv=8af8e2959745df44&ei=gtdPauLuG7_a4-EPq-iq2Ao&start=50&sa=N&sstk=AU9db-DxRuBs5YVdMhTdPb-8c1xV_ZnGQUohKpZI3j4YsYM0o3rdshhKEkq9GUxVAXLcee0kIToiUJSjW4LSBy_kRP0A_AmQGASDEQ&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQ8tMDegQILhAM
+          - text: "6"
+        - link "Page 7" [ref=f1e1221] [cursor=pointer]:
+          - /url: /search?q=recent+FIFA+match+Egypt+vs+Argentina&sca_esv=8af8e2959745df44&ei=gtdPauLuG7_a4-EPq-iq2Ao&start=60&sa=N&sstk=AU9db-DxRuBs5YVdMhTdPb-8c1xV_ZnGQUohKpZI3j4YsYM0o3rdshhKEkq9GUxVAXLcee0kIToiUJSjW4LSBy_kRP0A_AmQGASDEQ&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQ8tMDegQILhAO
+          - text: "7"
+        - link "Page 8" [ref=f1e1223] [cursor=pointer]:
+          - /url: /search?q=recent+FIFA+match+Egypt+vs+Argentina&sca_esv=8af8e2959745df44&ei=gtdPauLuG7_a4-EPq-iq2Ao&start=70&sa=N&sstk=AU9db-DxRuBs5YVdMhTdPb-8c1xV_ZnGQUohKpZI3j4YsYM0o3rdshhKEkq9GUxVAXLcee0kIToiUJSjW4LSBy_kRP0A_AmQGASDEQ&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQ8tMDegQILhAQ
+          - text: "8"
+        - link "Page 9" [ref=f1e1225] [cursor=pointer]:
+          - /url: /search?q=recent+FIFA+match+Egypt+vs+Argentina&sca_esv=8af8e2959745df44&ei=gtdPauLuG7_a4-EPq-iq2Ao&start=80&sa=N&sstk=AU9db-DxRuBs5YVdMhTdPb-8c1xV_ZnGQUohKpZI3j4YsYM0o3rdshhKEkq9GUxVAXLcee0kIToiUJSjW4LSBy_kRP0A_AmQGASDEQ&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQ8tMDegQILhAS
+          - text: "9"
+        - link "Page 10" [ref=f1e1227] [cursor=pointer]:
+          - /url: /search?q=recent+FIFA+match+Egypt+vs+Argentina&sca_esv=8af8e2959745df44&ei=gtdPauLuG7_a4-EPq-iq2Ao&start=90&sa=N&sstk=AU9db-DxRuBs5YVdMhTdPb-8c1xV_ZnGQUohKpZI3j4YsYM0o3rdshhKEkq9GUxVAXLcee0kIToiUJSjW4LSBy_kRP0A_AmQGASDEQ&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQ8tMDegQILhAU
+          - text: "10"
+        - heading "Next" [level=2] [ref=f1e1229]:
+          - link "Next" [ref=f1e1230] [cursor=pointer]:
+            - /url: /search?q=recent+FIFA+match+Egypt+vs+Argentina&sca_esv=8af8e2959745df44&ei=gtdPauLuG7_a4-EPq-iq2Ao&start=10&sa=N&sstk=AU9db-DxRuBs5YVdMhTdPb-8c1xV_ZnGQUohKpZI3j4YsYM0o3rdshhKEkq9GUxVAXLcee0kIToiUJSjW4LSBy_kRP0A_AmQGASDEQ&ved=2ahUKEwjit6nRjMaVAxU_7TgGHSu0CqsQ8NMDegQILhAW
+            - generic [ref=f1e1232]: Next
+      - navigation
+    - contentinfo [ref=f1e1233]:
+      - heading "Footer links" [level=1] [ref=f1e1234]
+      - generic [ref=f1e1238]:
+        - generic [ref=f1e1240]:
+          - text: India
+          - generic [ref=f1e1242]:
+            - button "Patna, Bihar - Based on your past activity" [ref=f1e1244] [cursor=pointer]:
+              - generic [ref=f1e1245]: Patna, Bihar
+              - generic [ref=f1e1247]:
+                - text: "-"
+                - generic [ref=f1e1248]: Based on your past activity
+            - text: "-"
+            - button "Update location" [ref=f1e1250] [cursor=pointer]: Update location
+        - generic [ref=f1e1253]:
+          - link "Help" [ref=f1e1254] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1
+          - link "Send feedback" [ref=f1e1255] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f1e1256] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-IN&fg=1
+          - link "Terms" [ref=f1e1257] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-IN&fg=1

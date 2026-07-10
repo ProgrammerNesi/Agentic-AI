@@ -1,0 +1,55 @@
+[    1484ms] [INFO] [slickstream] Page Generated at: 7/9/2026, 12:04:51 PM EST @ https://sallysbakingaddiction.com/banoffee-pie/:133
+[    1529ms] [INFO] [slickstream] Current timestamp: 7/9/2026, 12:30:04 PM EST @ https://sallysbakingaddiction.com/banoffee-pie/:134
+[    4211ms] [LOG] [Slickstream] GDPR Consent Needed? false @ browsertools://slickstream/boot-loader.js:0
+[    4538ms] [INFO] [Slickstream] Adding item to browser cache: https://c.slickstream.com/app-branch/rai-28-consent-gate-reader-id-clickstream/3.1.8/app.js @ https://sallysbakingaddiction.com/banoffee-pie/:150
+[    4714ms] [INFO] [Slickstream] No x-slickstream-consent header found in cached response @ https://sallysbakingaddiction.com/banoffee-pie/:150
+[    6761ms] [WARNING] [GPT] PubAdsService.getTargeting is deprecated, use googletag.getConfig('targeting') instead.
+https://goo.gle/gpt-message#200 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202607070101/pubads_impl.js?cb=31099614:18
+[    6795ms] [WARNING] [GPT] Slot.setTargeting is deprecated, use Slot.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#171 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202607070101/pubads_impl.js?cb=31099614:18
+[    7017ms] [ERROR] Failed to load resource: the server responded with a status of 451 () @ https://api.rlcdn.com/api/identity/envelope?pid=111:0
+[    7702ms] [LOG] Called iframe: ads.pubmatic.com [] 
+Number of topics:  0 @ https://ads.pubmatic.com/AdServer/js/topics/topics_frame.html?bidder=pubmatic:19
+[    9158ms] [WARNING] The resource https://sallysbakingaddiction.com/wp-content/themes/sallysbakingrecipes/assets/images/logo.svg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://sallysbakingaddiction.com/banoffee-pie/:0
+[   10369ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cs.lkqd.net/cs?partnerId=59&redirect=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dlkqd_dbm%26google_hm%3D%24%24rawlkqduserid%7Cbase64%24%24:0
+[   10475ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cs.lkqd.net/cs?partnerId=59&partnerUserId=CAESEGK7-t2oOPjXVPC5ilcvzfU&google_cver=1:0
+[   11904ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   11904ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12008ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12020ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12037ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12096ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12167ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12198ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   14309ms] Failed to read a named property 'addEventListener' from 'Window': Blocked a frame with origin "https://1bfc6ffd22141aec1f7cf4cf7059b596.safeframe.googlesyndication.com" from accessing a cross-origin frame.
+[   14551ms] [DIR] SyntaxError @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[   14837ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://1bfc6ffd22141aec1f7cf4cf7059b596.safeframe.googlesyndication.com" from accessing a frame with origin "https://sallysbakingaddiction.com". Protocols, domains, and ports must match.
+[   14837ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://1bfc6ffd22141aec1f7cf4cf7059b596.safeframe.googlesyndication.com" from accessing a frame with origin "https://sallysbakingaddiction.com". Protocols, domains, and ports must match.
+[   11904ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12008ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12020ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12037ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12096ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12167ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12198ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   15382ms] [WARNING] setCookiesEnabled is a no-op. The ltd parameter in the ad tag URL determines an ad request's ability to use cookies. @ https://s0.2mdn.net/instream/html5/ima3.js:660
+[   11904ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12008ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12020ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12037ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12096ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12167ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12198ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   15497ms] [WARNING] setCookiesEnabled is a no-op. The ltd parameter in the ad tag URL determines an ad request's ability to use cookies. @ https://s0.2mdn.net/instream/html5/ima3.js:660
+[   15566ms] [WARNING] setCookiesEnabled is a no-op. The ltd parameter in the ad tag URL determines an ad request's ability to use cookies. @ https://s0.2mdn.net/instream/html5/ima3.js:660
+[   15769ms] [WARNING] setCookiesEnabled is a no-op. The ltd parameter in the ad tag URL determines an ad request's ability to use cookies. @ https://s0.2mdn.net/instream/html5/ima3.js:660
+[   11904ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12008ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12020ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12037ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12096ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12167ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12198ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   16058ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   16113ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   16336ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1

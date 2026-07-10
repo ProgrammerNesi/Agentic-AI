@@ -1,0 +1,36 @@
+Me:
+So i was learnign about mcp, so heres what i have learned correct me whereeve theres need in my understanding and make it better
+So mcp is a standard way of declaring tools to agents running made by anthropic given to agentic ai foundation owned by linux foundation which is now open source. so it is basically a standard way where we can deliver tools written by others to our agetns to acheive a particualr task. it is not something like a network prorotcoal. heres how it works, it can be used as a process whihc is runned by a mcp client which gives decalariton to verous written tool json and tool execting code and the process is laung as soon as we run our agetn and whenever needed in the runitme our agent calls a particular tool written in mcp server running and executed, we may also connect a mcp server through http request if its remote. thats all i learned
+
+LLM:
+Your understanding is mostly correct, but a few parts can be made more accurate. A better way to think about MCP is this: **Model Context Protocol (MCP)** is an **open standard** for exposing tools, resources, and prompts to AI applications. It was originally introduced by **Anthropic** and is now developed openly under the **Agentic AI Foundation**, which operates under the **Linux Foundation**. Rather than being "a way of delivering tools," it's better described as **a standardized interface that allows AI applications (MCP clients) to discover and use capabilities provided by MCP servers, regardless of who built them**. It is **not a network protocol like HTTP or TCP**; instead, it is an application-level protocol that defines how clients and servers communicate. An MCP server wraps tools (along with their metadata, input/output schemas, resources, and prompts) and exposes them through the MCP specification. When your agent starts, the **MCP client** launches a local server (typically as a separate process over stdio) or connects to a remote server over transports such as HTTP/SSE or streamable HTTP, discovers the available tools, and provides their descriptions to the LLM. During execution, when the model decides it needs a tool, the client invokes the corresponding MCP server, which executes the actual code and returns the result back to the client, which then feeds it to the model. This separation means tool authors can build MCP servers once, and any MCP-compatible framework—such as Mastra, LangGraph, Google ADK, Claude Desktop, Cursor, or others—can use them without writing framework-specific integrations. That's the main value of MCP: **interoperability and reuse through a common standard** rather than a new transport or networking technology.
+
+Me:
+one thing i am unclear is that the mcp server runnning will have only tool declarartion or the execturing code also or will the execution happen remotely thorugh api and we can only access its io
+
+LLM:
+This is actually the most important part of MCP, and the answer is: **it depends on whether the MCP server is local or remote, but in both cases the server contains the execution logic, not just the tool declarations.**
+
+For a **local MCP server** (like `@modelcontextprotocol/server-filesystem` that you launched with `npx`), the server is a separate process running on your machine. It contains both the **tool declarations** (name, description, input schema, etc.) and the **actual implementation** of those tools. When your agent calls `read_file`, the MCP client sends a request to the local server, and that server executes the file-reading code on your machine and returns the result. No external API is involved.
+
+For a **remote MCP server**, the situation is conceptually the same. The only difference is that the server runs on another machine. Your MCP client connects to it over a supported transport (such as HTTP), discovers its available tools, and when the model invokes one, the request is sent to that remote server. The **execution happens on the remote machine**, and your client only receives the result (the tool's output). You do not get the server's implementation code unless it's open source and you choose to inspect it separately.
+
+So the architecture looks like this:
+
+```text
+LLM
+   ↓ decides to call tool
+MCP Client
+   ↓
+MCP Server
+   ├── Tool declarations (metadata + schemas)
+   └── Tool implementation (actual code)
+           ↓
+      Executes the tool
+           ↓
+      Returns the result
+           ↓
+MCP Client → LLM
+```
+
+A useful analogy is a REST API. When you call GitHub's REST API, you know the endpoint, the parameters, and the response format, but you don't have GitHub's backend code. A **remote MCP server works similarly**: you know what tools it offers and how to call them, but the execution happens on the server. The difference is that MCP standardizes this interaction specifically for AI tools, so any MCP-compatible client can automatically discover and use those tools without custom integration code.

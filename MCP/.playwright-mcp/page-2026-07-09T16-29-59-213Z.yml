@@ -1,0 +1,541 @@
+- generic [active] [ref=f3e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f3e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f3e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-IN
+  - generic [ref=f3e8]:
+    - search [ref=f3e9]:
+      - generic [ref=f3e11]:
+        - generic:
+          - generic:
+            - generic:
+              - img
+        - 'link "World Cup 2026: The art of the header" [ref=f3e13] [cursor=pointer]':
+          - /url: https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQPQgK
+          - 'img "World Cup 2026: The art of the header" [ref=f3e14]'
+        - generic [ref=f3e15]:
+          - generic [ref=f3e16]:
+            - combobox "Search" [ref=f3e19]: best banoffee pie recipe best banoffee pie recipe
+            - generic [ref=f3e20]:
+              - button "Clear" [ref=f3e22] [cursor=pointer]:
+                - img [ref=f3e24]
+              - generic [ref=f3e27]:
+                - button "Search by voice" [ref=f3e28] [cursor=pointer]:
+                  - img [ref=f3e29]
+                - button "Search by image" [ref=f3e31] [cursor=pointer]:
+                  - img [ref=f3e32]
+          - button "Search" [ref=f3e34] [cursor=pointer]:
+            - img [ref=f3e37]
+    - generic [ref=f3e39]:
+      - button "Settings" [ref=f3e41] [cursor=pointer]
+      - button "Share" [ref=f3e42] [cursor=pointer]:
+        - img [ref=f3e46]
+      - generic [ref=f3e48]:
+        - button "Google apps" [ref=f3e50] [cursor=pointer]:
+          - img [ref=f3e51]
+        - link "Sign in" [ref=f3e55] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dbest%2Bbanoffee%2Bpie%2Brecipe%26sca_esv%3D1ca671115836aad7%26source%3Dhp%26ei%3DhcxPavT-O-i6vr0P2PGo4QI%26iflsig%3DABILxe8AAAAAak_alhEpi7pU2_81c0lDBMDTTvdCdVmt%26ved%3D0ahUKEwi01Z2UgsaVAxVona8BHdg4KiwQ4dUDCDA%26uact%3D5%26oq%3Dbest%2Bbanoffee%2Bpie%2Brecipe%26gs_lp%3DEgdnd3Mtd2l6IhhiZXN0IGJhbm9mZmVlIHBpZSByZWNpcGUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5Izg5QAFgAcAB4AJABAJgBqgGgAaoBqgEDMC4xuAEDyAEA-AEBmAIBoALFAZgDAJIHAzAuMaAHigayBwMwLjG4B8UBwgcDNC0xyAcUgAgB%26sclient%3Dgws-wiz%26sei%3Di8xPaqDsJ4a1vr0Pu-3MkAs&ec=futura_srp_og_si_72236_p
+  - generic [ref=f3e57]:
+    - navigation [ref=f3e63]:
+      - list [ref=f3e66]:
+        - listitem [ref=f3e67]:
+          - link "AI Mode" [ref=f3e70] [cursor=pointer]:
+            - /url: /search?q=best+banoffee+pie+recipe&sca_esv=1ca671115836aad7&udm=50&source=hp&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKh9YVaEr5mXVzABWj5nKQcJQ7U105Gk2oU-UBjyQxAF_wy3oW3H4PKHrepS-Qb5K2JAfnftOvaam-rliFg6kJdMN9N1PuSIxG9tuvWkkGf3sTW_98Zm-7yrG16mF1zj-zX83RpMh9kq9kj1y_4Yk5H4Dd3jYg&aep=1&ntc=1&sa=X&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ2J8OegQIEBAD
+            - generic [ref=f3e73]: AI Mode
+        - listitem [ref=f3e74]:
+          - link "All" [disabled] [ref=f3e75]:
+            - generic [ref=f3e77]: All
+        - listitem [ref=f3e78]:
+          - link "Short videos" [ref=f3e79] [cursor=pointer]:
+            - /url: /search?sca_esv=1ca671115836aad7&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKh9YVaEr5mXVzABWj5nKQcJQ7U105Gk2oU-UBjyQxAF_wy3oW3H4PKHrepS-Qb5K2JAfnftOvaam-rliFg6kJdMN9N1PuSIxG9tuvWkkGf3sTW_98Zm-7yrG16mF1zj-zX83RpMh9kq9kj1y_4Yk5H4Dd3jYg&q=best+banoffee+pie+recipe&sa=X&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQs6gLegQIFhAB
+            - generic [ref=f3e81]: Short videos
+        - listitem [ref=f3e82]:
+          - link "Images" [ref=f3e83] [cursor=pointer]:
+            - /url: /search?sca_esv=1ca671115836aad7&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKh9YVaEr5mXVzABWj5nKQcJQ7U105Gk2oU-UBjyQxAF_wy3oW3H4PKHrepS-Qb5K2JAfnftOvaam-rliFg6kJdMN9N1PuSIxG9tuvWkkGf3sTW_98Zm-7yrG16mF1zj-zX83RpMh9kq9kj1y_4Yk5H4Dd3jYg&q=best+banoffee+pie+recipe&sa=X&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQtKgLegQIFRAB
+            - generic [ref=f3e85]: Images
+        - listitem [ref=f3e86]:
+          - link "Videos" [ref=f3e87] [cursor=pointer]:
+            - /url: /search?sca_esv=1ca671115836aad7&udm=7&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKh9YVaEr5mXVzABWj5nKQcJQ7U105Gk2oU-UBjyQxAF_wy3oW3H4PKHrepS-Qb5K2JAfnftOvaam-rliFg6kJdMN9N1PuSIxG9tuvWkkGf3sTW_98Zm-7yrG16mF1zj-zX83RpMh9kq9kj1y_4Yk5H4Dd3jYg&q=best+banoffee+pie+recipe&sa=X&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQtKgLegQIFBAB
+            - generic [ref=f3e89]: Videos
+        - listitem [ref=f3e90]:
+          - link "Shopping" [ref=f3e91] [cursor=pointer]:
+            - /url: /search?sca_esv=1ca671115836aad7&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKh9YVaEr5mXVzABWj5nKQcJQ7U105Gk2oU-UBjyQxAF_wy3oW3H4PKHrepS-Qb5K2JAfnftOvaam-rliFg6kJdMN9N1PuSIxG9tuvWkkGf3sTW_98Zm-7yrG16mF1zj-zX83RpMh9kq9kj1y_4Yk5H4Dd3jYg&q=best+banoffee+pie+recipe&ved=1t:220175&ictx=111
+            - generic [ref=f3e93]: Shopping
+        - listitem [ref=f3e94]:
+          - link "Forums" [ref=f3e95] [cursor=pointer]:
+            - /url: /search?sca_esv=1ca671115836aad7&udm=18&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKh9YVaEr5mXVzABWj5nKQcJQ7U105Gk2oU-UBjyQxAF_wy3oW3H4PKHrepS-Qb5K2JAfnftOvaam-rliFg6kJdMN9N1PuSIxG9tuvWkkGf3sTW_98Zm-7yrG16mF1zj-zX83RpMh9kq9kj1y_4Yk5H4Dd3jYg&q=best+banoffee+pie+recipe&sa=X&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQs6gLegQIEhAB
+            - generic [ref=f3e97]: Forums
+        - listitem [ref=f3e98]:
+          - button "More filters" [ref=f3e99] [cursor=pointer]:
+            - generic "More filters" [ref=f3e100]:
+              - generic [ref=f3e101]:
+                - generic [ref=f3e102]: More
+                - img [ref=f3e104]
+    - heading "Search Results" [level=1] [ref=f3e106]
+    - main [ref=f3e112]:
+      - generic [ref=f3e116]:
+        - generic [ref=f3e119]:
+          - heading "Web results" [level=2] [ref=f3e120]
+          - generic [ref=f3e121]:
+            - generic [ref=f3e124]:
+              - link "Banoffee Pie Recipe Sally's Baking Addiction https://sallysbakingaddiction.com › banoffee-pie" [ref=f3e126] [cursor=pointer]:
+                - /url: https://sallysbakingaddiction.com/banoffee-pie/
+                - heading "Banoffee Pie Recipe" [level=3] [ref=f3e127]
+                - generic [ref=f3e133]:
+                  - generic [ref=f3e135]: Sally's Baking Addiction
+                  - generic [ref=f3e137]: https://sallysbakingaddiction.com › banoffee-pie
+              - button "About this result" [ref=f3e140] [cursor=pointer]:
+                - img [ref=f3e143]
+            - generic [ref=f3e146]:
+              - generic [ref=f3e147]: 19 Jan 2022 —
+              - generic [ref=f3e148]:
+                - text: This shockingly
+                - emphasis [ref=f3e149]: easy banoffee pie recipe
+                - text: combines a crunchy graham cracker crust, soft and sweet dulce de leche, thick slices of fresh banana, and a mountain ...
+              - link "Read more" [ref=f3e150] [cursor=pointer]:
+                - /url: https://sallysbakingaddiction.com/banoffee-pie/#:~:text=This%20shockingly%20easy%20banoffee%20pie,mountain%20of%20billowy%20whipped%20cream.
+            - generic [ref=f3e152]:
+              - img "Rated 4.8 out of 5, (38) user reviews" [ref=f3e153]:
+                - text: "4.8"
+                - img [ref=f3e154]
+                - text: (38)
+              - text: · 3 hrs 35 mins
+        - generic [ref=f3e162]:
+          - heading "Recipes" [level=3] [ref=f3e164]
+          - generic [ref=f3e166]:
+            - generic [ref=f3e167]:
+              - generic [ref=f3e171]:
+                - link "Banoffee Pie Sally's Baking Addiction Rated 4.8 out of 5, 38 user reviews 3 hrs 35 mins Dulce de leche, graham cracker crumbs, toffee bits, heavy whipping cream, vanilla extract" [ref=f3e173] [cursor=pointer]:
+                  - /url: https://sallysbakingaddiction.com/banoffee-pie/
+                  - generic [ref=f3e179]:
+                    - heading "Banoffee Pie" [level=3] [ref=f3e180]
+                    - generic [ref=f3e182]: Sally's Baking Addiction
+                    - img "Rated 4.8 out of 5, 38 user reviews" [ref=f3e185]:
+                      - text: "4.8"
+                      - img [ref=f3e186]
+                      - text: (38)
+                    - generic [ref=f3e189]: 3 hrs 35 mins
+                    - generic [ref=f3e191]: Dulce de leche, graham cracker crumbs, toffee bits, heavy whipping cream, vanilla extract
+                - button "Add Banoffee Pie to saves list" [ref=f3e194]:
+                  - img [ref=f3e198] [cursor=pointer]
+              - generic [ref=f3e203]:
+                - link "Banoffee Pie Pinch of Yum Rated 4.8 out of 5, 55 user reviews 2 hrs 25 mins Sweetened condensed milk, graham crackers, brown sugar, vanilla bean paste, heavy cream" [ref=f3e205] [cursor=pointer]:
+                  - /url: https://pinchofyum.com/banoffee-pie
+                  - generic [ref=f3e211]:
+                    - heading "Banoffee Pie" [level=3] [ref=f3e212]
+                    - generic [ref=f3e214]: Pinch of Yum
+                    - img "Rated 4.8 out of 5, 55 user reviews" [ref=f3e217]:
+                      - text: "4.8"
+                      - img [ref=f3e218]
+                      - text: (55)
+                    - generic [ref=f3e221]: 2 hrs 25 mins
+                    - generic [ref=f3e223]: Sweetened condensed milk, graham crackers, brown sugar, vanilla bean paste, heavy cream
+                - button "Add Banoffee Pie to saves list" [ref=f3e226]:
+                  - img [ref=f3e230] [cursor=pointer]
+              - generic [ref=f3e235]:
+                - link "Banoffee Pie Taming Twins Rated 5.0 out of 5, 50 user reviews 1 hr 30 mins Condensed milk, dark brown sugar, dark chocolate, digestive biscuits, double cream" [ref=f3e237] [cursor=pointer]:
+                  - /url: https://www.tamingtwins.com/banoffee-pie-recipe/
+                  - generic [ref=f3e243]:
+                    - heading "Banoffee Pie" [level=3] [ref=f3e244]
+                    - generic [ref=f3e246]: Taming Twins
+                    - img "Rated 5.0 out of 5, 50 user reviews" [ref=f3e249]:
+                      - text: "5.0"
+                      - img [ref=f3e250]
+                      - text: (50)
+                    - generic [ref=f3e253]: 1 hr 30 mins
+                    - generic [ref=f3e255]: Condensed milk, dark brown sugar, dark chocolate, digestive biscuits, double cream
+                - button "Add Banoffee Pie to saves list" [ref=f3e258]:
+                  - img [ref=f3e262] [cursor=pointer]
+            - button "More recipes" [ref=f3e266] [cursor=pointer]:
+              - separator [ref=f3e267]
+              - generic [ref=f3e268]:
+                - generic [ref=f3e271]: More recipes
+                - img [ref=f3e273]
+        - generic [ref=f3e279]:
+          - heading "People also ask" [level=2] [ref=f3e281]
+          - generic [ref=f3e282]:
+            - button "How to make the perfect banoffee pie?" [ref=f3e288] [cursor=pointer]:
+              - generic [ref=f3e290]: How to make the perfect banoffee pie?
+              - img [ref=f3e293]
+            - button "How to elevate a banoffee pie?" [ref=f3e302] [cursor=pointer]:
+              - generic [ref=f3e304]: How to elevate a banoffee pie?
+              - img [ref=f3e307]
+            - button "How to make the best banoffee?" [ref=f3e316] [cursor=pointer]:
+              - generic [ref=f3e318]: How to make the best banoffee?
+              - img [ref=f3e321]
+            - button "What are the main ingredients of banoffee pie?" [ref=f3e330] [cursor=pointer]:
+              - generic [ref=f3e332]: What are the main ingredients of banoffee pie?
+              - img [ref=f3e335]
+        - generic [ref=f3e341]:
+          - generic [ref=f3e343]:
+            - heading "Videos" [level=2] [ref=f3e344]
+            - button "About this result" [ref=f3e345] [cursor=pointer]:
+              - img [ref=f3e348]
+          - generic [ref=f3e351]:
+            - generic [ref=f3e358]:
+              - generic [ref=f3e359]:
+                - link "Easy Banoffee Pie Recipe YouTube Preppy Kitchen 27 Aug 2025" [ref=f3e361] [cursor=pointer]:
+                  - /url: https://www.youtube.com/watch?v=W6BPdCIiK_0
+                  - heading "Easy Banoffee Pie Recipe YouTube Preppy Kitchen 27 Aug 2025" [level=3] [ref=f3e362]:
+                    - generic [ref=f3e365]: Easy Banoffee Pie Recipe
+                    - generic [ref=f3e367]:
+                      - generic [ref=f3e368]:
+                        - text: YouTube
+                        - generic [ref=f3e369]: · Preppy Kitchen
+                      - generic [ref=f3e370]: 27 Aug 2025
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - text: YouTube
+                          - generic: · Preppy Kitchen
+                    - button "About this result" [ref=f3e371] [cursor=pointer]:
+                      - img [ref=f3e374]
+              - button "Easy Banoffee Pie Recipe by Preppy Kitchen on YouTube. Play on Google. 11:12" [ref=f3e376] [cursor=pointer]:
+                - generic [ref=f3e377]:
+                  - img [ref=f3e382]
+                  - generic [ref=f3e385]:
+                    - generic [ref=f3e386]: 11:12
+                    - img [ref=f3e389]
+            - generic [ref=f3e396]:
+              - generic [ref=f3e397]:
+                - link "Banoffee Pie Recipe YouTube The Cooking Foodie 1 Feb 2024" [ref=f3e399] [cursor=pointer]:
+                  - /url: https://www.youtube.com/watch?v=EcGh4Fx9pyY
+                  - heading "Banoffee Pie Recipe YouTube The Cooking Foodie 1 Feb 2024" [level=3] [ref=f3e400]:
+                    - generic [ref=f3e403]: Banoffee Pie Recipe
+                    - generic [ref=f3e405]:
+                      - generic [ref=f3e406]:
+                        - text: YouTube
+                        - generic [ref=f3e407]: · The Cooking Foodie
+                      - generic [ref=f3e408]: 1 Feb 2024
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - text: YouTube
+                          - generic: · The Cooking Foodie
+                    - button "About this result" [ref=f3e409] [cursor=pointer]:
+                      - img [ref=f3e412]
+              - button "Banoffee Pie Recipe by The Cooking Foodie on YouTube. Play on Google. 2:54" [ref=f3e414] [cursor=pointer]:
+                - generic [ref=f3e415]:
+                  - img [ref=f3e418]
+                  - generic [ref=f3e421]:
+                    - generic [ref=f3e422]: 2:54
+                    - img [ref=f3e425]
+            - generic [ref=f3e432]:
+              - generic [ref=f3e433]:
+                - generic [ref=f3e434]:
+                  - link "Easy No-Bake Banoffee Pie | Mary Berry Dessert Recipe YouTube Mary Berry 12 May 2026" [ref=f3e436] [cursor=pointer]:
+                    - /url: https://www.youtube.com/watch?v=QVPDNJQTRl8
+                    - heading "Easy No-Bake Banoffee Pie | Mary Berry Dessert Recipe YouTube Mary Berry 12 May 2026" [level=3] [ref=f3e437]:
+                      - generic [ref=f3e440]: Easy No-Bake Banoffee Pie | Mary Berry Dessert Recipe
+                      - generic [ref=f3e442]:
+                        - generic [ref=f3e443]:
+                          - text: YouTube
+                          - generic [ref=f3e444]: · Mary Berry
+                        - generic [ref=f3e445]: 12 May 2026
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - text: YouTube
+                            - generic: · Mary Berry
+                      - button "About this result" [ref=f3e446] [cursor=pointer]:
+                        - img [ref=f3e449]
+                - button "Easy No-Bake Banoffee Pie | Mary Berry Dessert Recipe by Mary Berry on YouTube. Play on Google. 3:15" [ref=f3e451] [cursor=pointer]:
+                  - generic [ref=f3e452]:
+                    - img [ref=f3e457]
+                    - generic [ref=f3e460]:
+                      - generic [ref=f3e461]: 3:15
+                      - img [ref=f3e464]
+              - button "Create a no-bake banoffee pie with a digestive biscuit crust, a rich caramel made from butter, muscovado sugar, and condensed milk." [ref=f3e467] [cursor=pointer]:
+                - generic [ref=f3e471]: Create a no-bake banoffee pie with a digestive biscuit crust, a rich caramel made from butter, muscovado sugar, and condensed milk.
+            - generic [ref=f3e477]:
+              - generic [ref=f3e478]:
+                - generic [ref=f3e479]:
+                  - link "Banoffee Pie YouTube Preppy Kitchen 15 Jul 2020" [ref=f3e481] [cursor=pointer]:
+                    - /url: https://www.youtube.com/watch?v=lPG1vLT1iJ0
+                    - heading "Banoffee Pie YouTube Preppy Kitchen 15 Jul 2020" [level=3] [ref=f3e482]:
+                      - generic [ref=f3e485]: Banoffee Pie
+                      - generic [ref=f3e487]:
+                        - generic [ref=f3e488]:
+                          - text: YouTube
+                          - generic [ref=f3e489]: · Preppy Kitchen
+                        - generic [ref=f3e490]: 15 Jul 2020
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - text: YouTube
+                            - generic: · Preppy Kitchen
+                      - button "About this result" [ref=f3e491] [cursor=pointer]:
+                        - img [ref=f3e494]
+                - button "Banoffee Pie by Preppy Kitchen on YouTube. Play on Google. 9:39" [ref=f3e496] [cursor=pointer]:
+                  - generic [ref=f3e497]:
+                    - img [ref=f3e502]
+                    - generic [ref=f3e505]:
+                      - generic [ref=f3e506]: 9:39
+                      - img [ref=f3e509]
+              - 'button "Learn to make a popular UK dessert: banana toffee pie with an easy graham cracker crust, dulce de leche, whipped cream, & chocolate." [ref=f3e512] [cursor=pointer]':
+                - generic [ref=f3e516]: "Learn to make a popular UK dessert: banana toffee pie with an easy graham cracker crust, dulce de leche, whipped cream, & chocolate."
+          - link "View all videos" [ref=f3e519] [cursor=pointer]:
+            - /url: /search?sca_esv=1ca671115836aad7&udm=7&q=best+banoffee+pie+recipe&sa=X&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ8ccDKAJ6BAhJEAQ
+            - separator [ref=f3e520]
+            - generic [ref=f3e521]:
+              - generic [ref=f3e522]: View all
+              - img [ref=f3e524]
+        - generic [ref=f3e528]:
+          - heading "Web results" [level=2] [ref=f3e529]
+          - generic [ref=f3e530]:
+            - generic [ref=f3e533]:
+              - link "Banoffee Pie Recipe Pinch of Yum https://pinchofyum.com › banoffee-pie" [ref=f3e535] [cursor=pointer]:
+                - /url: https://pinchofyum.com/banoffee-pie
+                - heading "Banoffee Pie Recipe" [level=3] [ref=f3e536]
+                - generic [ref=f3e542]:
+                  - generic [ref=f3e544]: Pinch of Yum
+                  - generic [ref=f3e546]: https://pinchofyum.com › banoffee-pie
+              - button "About this result" [ref=f3e549] [cursor=pointer]:
+                - img [ref=f3e552]
+            - generic [ref=f3e555]:
+              - generic [ref=f3e556]: 8 Apr 2026 —
+              - generic [ref=f3e557]:
+                - text: This banoffee pie recipe features a
+                - emphasis [ref=f3e558]: graham cracker crust, silky toffee filling, sliced bananas, and whipped cream
+                - text: . 55 reviews / 4.8 average
+            - link "best banoffee pie recipe from pinchofyum.com" [ref=f3e561] [cursor=pointer]:
+              - /url: https://pinchofyum.com/banoffee-pie
+              - img "best banoffee pie recipe from pinchofyum.com" [ref=f3e563]
+            - generic [ref=f3e565]:
+              - img "Rated 4.8 out of 5, (55) user reviews" [ref=f3e566]:
+                - text: "4.8"
+                - img [ref=f3e567]
+                - text: (55)
+              - text: · 2 hrs 25 mins
+        - generic [ref=f3e573]:
+          - generic [ref=f3e576]:
+            - 'link "Banoffee Pie {Foolproof Recipe!} Taming Twins https://www.tamingtwins.com › ... › Desserts" [ref=f3e578] [cursor=pointer]':
+              - /url: https://www.tamingtwins.com/banoffee-pie-recipe/
+              - 'heading "Banoffee Pie {Foolproof Recipe!}" [level=3] [ref=f3e579]'
+              - generic [ref=f3e585]:
+                - generic [ref=f3e587]: Taming Twins
+                - generic [ref=f3e589]: https://www.tamingtwins.com › ... › Desserts
+            - button "About this result" [ref=f3e592] [cursor=pointer]:
+              - img [ref=f3e595]
+          - generic [ref=f3e598]:
+            - generic [ref=f3e599]: 16 Mar 2026 —
+            - generic [ref=f3e600]:
+              - text: This is
+              - emphasis [ref=f3e601]: Banoffee Pie is a tried & tested, foolproof recipe
+              - text: that is delicious every time. Buttery biscuit & rich homemade caramel, oh hello!
+          - link "best banoffee pie recipe from www.tamingtwins.com" [ref=f3e604] [cursor=pointer]:
+            - /url: https://www.tamingtwins.com/banoffee-pie-recipe/
+            - img "best banoffee pie recipe from www.tamingtwins.com" [ref=f3e606]
+          - generic [ref=f3e608]:
+            - img "Rated 5.0 out of 5, (50) user reviews" [ref=f3e609]:
+              - text: "5.0"
+              - img [ref=f3e610]
+              - text: (50)
+            - text: · 1 hr 30 mins
+        - generic [ref=f3e616]:
+          - generic [ref=f3e619]:
+            - link "Easy Banoffee Pie Recipe Yummy Tummy Aarthi https://www.yummytummyaarthi.com › easy-banoffee-..." [ref=f3e621] [cursor=pointer]:
+              - /url: https://www.yummytummyaarthi.com/easy-banoffee-pie-recipe/
+              - heading "Easy Banoffee Pie Recipe" [level=3] [ref=f3e622]
+              - generic [ref=f3e628]:
+                - generic [ref=f3e630]: Yummy Tummy Aarthi
+                - generic [ref=f3e632]: https://www.yummytummyaarthi.com › easy-banoffee-...
+            - button "About this result" [ref=f3e635] [cursor=pointer]:
+              - img [ref=f3e638]
+          - generic [ref=f3e641]:
+            - generic [ref=f3e642]: 8 Apr 2025 —
+            - generic [ref=f3e643]:
+              - text: Banoffee pie is a British dessert pie
+              - emphasis [ref=f3e644]: made with bananas, cream, and a thick caramel sauce
+              - text: ", served on a buttery biscuit base or a crumbled biscuit and butter ..."
+            - link "Read more" [ref=f3e645] [cursor=pointer]:
+              - /url: https://www.yummytummyaarthi.com/easy-banoffee-pie-recipe/#:~:text=Banoffee%20pie%20is%20a%20British,crumbled%20biscuit%20and%20butter%20base.
+          - link "best banoffee pie recipe from www.yummytummyaarthi.com" [ref=f3e648] [cursor=pointer]:
+            - /url: https://www.yummytummyaarthi.com/easy-banoffee-pie-recipe/
+            - img "best banoffee pie recipe from www.yummytummyaarthi.com" [ref=f3e650]
+          - generic [ref=f3e652]:
+            - img "Rated 5.0 out of 5, (1) user reviews" [ref=f3e653]:
+              - text: "5.0"
+              - img [ref=f3e654]
+              - text: (1)
+            - text: · 4 hrs 40 mins
+        - generic [ref=f3e660]:
+          - generic [ref=f3e663]:
+            - link "Classic Banoffee Pie Recipe Carnation UK https://www.carnation.co.uk › recipes › classic-banoffee..." [ref=f3e665] [cursor=pointer]:
+              - /url: https://www.carnation.co.uk/recipes/classic-banoffee-pie-recipe
+              - heading "Classic Banoffee Pie Recipe" [level=3] [ref=f3e666]
+              - generic [ref=f3e672]:
+                - generic [ref=f3e674]: Carnation UK
+                - generic [ref=f3e676]: https://www.carnation.co.uk › recipes › classic-banoffee...
+            - button "About this result" [ref=f3e679] [cursor=pointer]:
+              - img [ref=f3e682]
+          - generic [ref=f3e685]: "Time PREP: 10 mins COOK: 10 mins Difficulty. Classically delicious, made with our own creamy Carnation Condensed Milk to make a smooth and golden caramel."
+          - link "best banoffee pie recipe from www.carnation.co.uk" [ref=f3e688] [cursor=pointer]:
+            - /url: https://www.carnation.co.uk/recipes/classic-banoffee-pie-recipe
+            - img "best banoffee pie recipe from www.carnation.co.uk" [ref=f3e690]
+          - generic [ref=f3e692]: 20 mins
+        - generic [ref=f3e696]:
+          - generic [ref=f3e699]:
+            - link "5-Ingredient British Banoffee Pie Serious Eats https://www.seriouseats.com › ... › Fruit › Banana" [ref=f3e701] [cursor=pointer]:
+              - /url: https://www.seriouseats.com/banoffee-pie-recipe-8646124
+              - heading "5-Ingredient British Banoffee Pie" [level=3] [ref=f3e702]
+              - generic [ref=f3e708]:
+                - generic [ref=f3e710]: Serious Eats
+                - generic [ref=f3e712]: https://www.seriouseats.com › ... › Fruit › Banana
+            - button "About this result" [ref=f3e715] [cursor=pointer]:
+              - img [ref=f3e718]
+          - generic [ref=f3e721]:
+            - generic [ref=f3e722]: 9 Feb 2026 —
+            - generic [ref=f3e723]:
+              - text: For the
+              - emphasis [ref=f3e724]: Best Banoffee Pie
+              - text: Crust, Reach for a Packet of British Biscuits. Today, many
+              - emphasis [ref=f3e725]: banoffee pie recipes
+              - text: call for a graham cracker crust.
+            - link "Read more" [ref=f3e726] [cursor=pointer]:
+              - /url: https://www.seriouseats.com/banoffee-pie-recipe-8646124#:~:text=For%20the%20Best%20Banoffee%20Pie,for%20a%20graham%20cracker%20crust.
+          - link "best banoffee pie recipe from www.seriouseats.com" [ref=f3e729] [cursor=pointer]:
+            - /url: https://www.seriouseats.com/banoffee-pie-recipe-8646124
+            - img "best banoffee pie recipe from www.seriouseats.com" [ref=f3e731]
+          - generic [ref=f3e733]:
+            - img "Rated 5.0 out of 5, (3) user reviews" [ref=f3e734]:
+              - text: "5.0"
+              - img [ref=f3e735]
+              - text: (3)
+            - text: · 5 hrs 10 mins
+        - generic [ref=f3e743]:
+          - generic [ref=f3e746]:
+            - link "Mary Berry's banoffee pie is a classic dessert recipe featuring ... Facebook · Mary Berry the cook 4.5K+ reactions · 1 month ago" [ref=f3e748] [cursor=pointer]:
+              - /url: https://www.facebook.com/maryberrythecook/posts/mary-berrys-banoffee-pie-is-a-classic-dessert-recipe-featuring-a-crisp-biscuit-b/1531999944948611/
+              - heading "Mary Berry's banoffee pie is a classic dessert recipe featuring ..." [level=3] [ref=f3e749]
+              - generic [ref=f3e751]:
+                - img [ref=f3e756]
+                - generic [ref=f3e758]:
+                  - generic [ref=f3e760]: Facebook · Mary Berry the cook
+                  - generic [ref=f3e762]: 4.5K+ reactions · 1 month ago
+            - button "About this result" [ref=f3e765] [cursor=pointer]:
+              - img [ref=f3e768]
+          - generic [ref=f3e770]:
+            - link "Mary Berry's banoffee pie is a classic dessert recipe featuring ... by Mary Berry the cook on Facebook. Play on Facebook. 2:59" [ref=f3e771] [cursor=pointer]:
+              - /url: https://www.facebook.com/maryberrythecook/posts/mary-berrys-banoffee-pie-is-a-classic-dessert-recipe-featuring-a-crisp-biscuit-b/1531999944948611/
+              - generic [ref=f3e773]:
+                - img [ref=f3e776]
+                - generic [ref=f3e780]: 2:59
+            - generic [ref=f3e782]: Ingridients • 1 (14 oz) can sweetened condensed milk • 1 graham cracker pie crust • 1 cup heavy whipping cream • 3 teaspoons powdered sugar • ½ ...
+        - generic [ref=f3e786]:
+          - generic [ref=f3e789]:
+            - link "Banoffee Pie Recipe Natasha's Kitchen https://natashaskitchen.com › Dessert" [ref=f3e791] [cursor=pointer]:
+              - /url: https://natashaskitchen.com/banoffee-pie-recipe/
+              - heading "Banoffee Pie Recipe" [level=3] [ref=f3e792]
+              - generic [ref=f3e798]:
+                - generic [ref=f3e800]: Natasha's Kitchen
+                - generic [ref=f3e802]: https://natashaskitchen.com › Dessert
+            - button "About this result" [ref=f3e805] [cursor=pointer]:
+              - img [ref=f3e808]
+          - generic [ref=f3e811]:
+            - generic [ref=f3e812]: 11 Jan 2025 —
+            - generic [ref=f3e813]:
+              - text: This Banoffee Pie is a magical tri-layer confection of
+              - emphasis [ref=f3e814]: bananas, toffee and whipped cream
+              - text: that will send your taste buds into an overdrive.
+          - link "best banoffee pie recipe from natashaskitchen.com" [ref=f3e817] [cursor=pointer]:
+            - /url: https://natashaskitchen.com/banoffee-pie-recipe/
+            - img "best banoffee pie recipe from natashaskitchen.com" [ref=f3e819]
+          - generic [ref=f3e821]:
+            - img "Rated 4.9 out of 5, (23) user reviews" [ref=f3e822]:
+              - text: "4.9"
+              - img [ref=f3e823]
+              - text: (23)
+            - text: · 5 hrs 50 mins
+      - generic [ref=f3e827]:
+        - generic [ref=f3e832]:
+          - heading "People also search for" [level=2] [ref=f3e834]
+          - generic [ref=f3e836]:
+            - generic [ref=f3e837]:
+              - link "Banoffee pie recipe Jamie Oliver" [ref=f3e841] [cursor=pointer]:
+                - /url: /search?sca_esv=1ca671115836aad7&q=Banoffee+pie+recipe+Jamie+Oliver&sa=X&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ1QJ6BAhGEAE
+                - generic [ref=f3e842]:
+                  - generic [ref=f3e846]: Banoffee pie recipe Jamie Oliver
+                  - img [ref=f3e850]
+              - link "Banoffee pie original recipe" [ref=f3e855] [cursor=pointer]:
+                - /url: /search?sca_esv=1ca671115836aad7&q=Banoffee+pie+original+recipe&sa=X&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ1QJ6BAhREAE
+                - generic [ref=f3e856]:
+                  - generic [ref=f3e860]: Banoffee pie original recipe
+                  - img [ref=f3e864]
+              - link "Mary Berry banoffee pie recipe" [ref=f3e869] [cursor=pointer]:
+                - /url: /search?sca_esv=1ca671115836aad7&q=Mary+Berry+banoffee+pie+recipe&sa=X&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ1QJ6BAhSEAE
+                - generic [ref=f3e870]:
+                  - generic [ref=f3e874]: Mary Berry banoffee pie recipe
+                  - img [ref=f3e878]
+              - link "Banoffee pie recipe Nigella" [ref=f3e883] [cursor=pointer]:
+                - /url: /search?sca_esv=1ca671115836aad7&q=Banoffee+pie+recipe+Nigella&sa=X&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ1QJ6BAhTEAE
+                - generic [ref=f3e884]:
+                  - generic [ref=f3e888]: Banoffee pie recipe Nigella
+                  - img [ref=f3e892]
+            - generic [ref=f3e894]:
+              - link "Banoffee pie near me" [ref=f3e898] [cursor=pointer]:
+                - /url: /search?sca_esv=1ca671115836aad7&q=Banoffee+pie+near+me&sa=X&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ1QJ6BAhPEAE
+                - generic [ref=f3e899]:
+                  - generic [ref=f3e903]: Banoffee pie near me
+                  - img [ref=f3e907]
+              - link "Best biscuits for banoffee pie" [ref=f3e912] [cursor=pointer]:
+                - /url: /search?sca_esv=1ca671115836aad7&q=Best+biscuits+for+banoffee+pie&sa=X&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ1QJ6BAhQEAE
+                - generic [ref=f3e913]:
+                  - generic [ref=f3e917]: Best biscuits for banoffee pie
+                  - img [ref=f3e921]
+              - link "Banoffee pie Jamie Oliver condensed milk" [ref=f3e926] [cursor=pointer]:
+                - /url: /search?sca_esv=1ca671115836aad7&q=Banoffee+pie+Jamie+Oliver+condensed+milk&sa=X&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ1QJ6BAhMEAE
+                - generic [ref=f3e927]:
+                  - generic [ref=f3e931]: Banoffee pie Jamie Oliver condensed milk
+                  - img [ref=f3e935]
+              - link "Original banoffee pie recipe with condensed milk" [ref=f3e940] [cursor=pointer]:
+                - /url: /search?sca_esv=1ca671115836aad7&q=Original+banoffee+pie+recipe+with+condensed+milk&sa=X&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ1QJ6BAhKEAE
+                - generic [ref=f3e941]:
+                  - generic [ref=f3e945]: Original banoffee pie recipe with condensed milk
+                  - img [ref=f3e949]
+        - navigation [ref=f3e951]:
+          - heading "Page navigation" [level=1] [ref=f3e952]
+          - text: "1"
+          - link "Page 2" [ref=f3e955] [cursor=pointer]:
+            - /url: /search?q=best+banoffee+pie+recipe&sca_esv=1ca671115836aad7&ei=jMxParroBvTD1e8Pq6nXiAU&start=10&sa=N&sstk=AU9db-DDCJb4p2jRBQIiMooGSTqcjUJL_IhtlX4KzKpTKYqF9sbkKzANeSSBfKKTdpT2BRTD3icrGa8yfg5-zEGqnSrHiD5zPTj3Ug&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ8tMDegQIRRAE
+            - text: "2"
+          - link "Page 3" [ref=f3e957] [cursor=pointer]:
+            - /url: /search?q=best+banoffee+pie+recipe&sca_esv=1ca671115836aad7&ei=jMxParroBvTD1e8Pq6nXiAU&start=20&sa=N&sstk=AU9db-DDCJb4p2jRBQIiMooGSTqcjUJL_IhtlX4KzKpTKYqF9sbkKzANeSSBfKKTdpT2BRTD3icrGa8yfg5-zEGqnSrHiD5zPTj3Ug&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ8tMDegQIRRAG
+            - text: "3"
+          - link "Page 4" [ref=f3e959] [cursor=pointer]:
+            - /url: /search?q=best+banoffee+pie+recipe&sca_esv=1ca671115836aad7&ei=jMxParroBvTD1e8Pq6nXiAU&start=30&sa=N&sstk=AU9db-DDCJb4p2jRBQIiMooGSTqcjUJL_IhtlX4KzKpTKYqF9sbkKzANeSSBfKKTdpT2BRTD3icrGa8yfg5-zEGqnSrHiD5zPTj3Ug&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ8tMDegQIRRAI
+            - text: "4"
+          - link "Page 5" [ref=f3e961] [cursor=pointer]:
+            - /url: /search?q=best+banoffee+pie+recipe&sca_esv=1ca671115836aad7&ei=jMxParroBvTD1e8Pq6nXiAU&start=40&sa=N&sstk=AU9db-DDCJb4p2jRBQIiMooGSTqcjUJL_IhtlX4KzKpTKYqF9sbkKzANeSSBfKKTdpT2BRTD3icrGa8yfg5-zEGqnSrHiD5zPTj3Ug&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ8tMDegQIRRAK
+            - text: "5"
+          - link "Page 6" [ref=f3e963] [cursor=pointer]:
+            - /url: /search?q=best+banoffee+pie+recipe&sca_esv=1ca671115836aad7&ei=jMxParroBvTD1e8Pq6nXiAU&start=50&sa=N&sstk=AU9db-DDCJb4p2jRBQIiMooGSTqcjUJL_IhtlX4KzKpTKYqF9sbkKzANeSSBfKKTdpT2BRTD3icrGa8yfg5-zEGqnSrHiD5zPTj3Ug&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ8tMDegQIRRAM
+            - text: "6"
+          - link "Page 7" [ref=f3e965] [cursor=pointer]:
+            - /url: /search?q=best+banoffee+pie+recipe&sca_esv=1ca671115836aad7&ei=jMxParroBvTD1e8Pq6nXiAU&start=60&sa=N&sstk=AU9db-DDCJb4p2jRBQIiMooGSTqcjUJL_IhtlX4KzKpTKYqF9sbkKzANeSSBfKKTdpT2BRTD3icrGa8yfg5-zEGqnSrHiD5zPTj3Ug&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ8tMDegQIRRAO
+            - text: "7"
+          - link "Page 8" [ref=f3e967] [cursor=pointer]:
+            - /url: /search?q=best+banoffee+pie+recipe&sca_esv=1ca671115836aad7&ei=jMxParroBvTD1e8Pq6nXiAU&start=70&sa=N&sstk=AU9db-DDCJb4p2jRBQIiMooGSTqcjUJL_IhtlX4KzKpTKYqF9sbkKzANeSSBfKKTdpT2BRTD3icrGa8yfg5-zEGqnSrHiD5zPTj3Ug&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ8tMDegQIRRAQ
+            - text: "8"
+          - link "Page 9" [ref=f3e969] [cursor=pointer]:
+            - /url: /search?q=best+banoffee+pie+recipe&sca_esv=1ca671115836aad7&ei=jMxParroBvTD1e8Pq6nXiAU&start=80&sa=N&sstk=AU9db-DDCJb4p2jRBQIiMooGSTqcjUJL_IhtlX4KzKpTKYqF9sbkKzANeSSBfKKTdpT2BRTD3icrGa8yfg5-zEGqnSrHiD5zPTj3Ug&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ8tMDegQIRRAS
+            - text: "9"
+          - link "Page 10" [ref=f3e971] [cursor=pointer]:
+            - /url: /search?q=best+banoffee+pie+recipe&sca_esv=1ca671115836aad7&ei=jMxParroBvTD1e8Pq6nXiAU&start=90&sa=N&sstk=AU9db-DDCJb4p2jRBQIiMooGSTqcjUJL_IhtlX4KzKpTKYqF9sbkKzANeSSBfKKTdpT2BRTD3icrGa8yfg5-zEGqnSrHiD5zPTj3Ug&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ8tMDegQIRRAU
+            - text: "10"
+          - heading "Next" [level=2] [ref=f3e973]:
+            - link "Next" [ref=f3e974] [cursor=pointer]:
+              - /url: /search?q=best+banoffee+pie+recipe&sca_esv=1ca671115836aad7&ei=jMxParroBvTD1e8Pq6nXiAU&start=10&sa=N&sstk=AU9db-DDCJb4p2jRBQIiMooGSTqcjUJL_IhtlX4KzKpTKYqF9sbkKzANeSSBfKKTdpT2BRTD3icrGa8yfg5-zEGqnSrHiD5zPTj3Ug&ved=2ahUKEwi63pOXgsaVAxX0YfUHHavUFVEQ8NMDegQIRRAW
+              - generic [ref=f3e976]: Next
+      - navigation
+    - contentinfo [ref=f3e977]:
+      - heading "Footer links" [level=1] [ref=f3e978]

@@ -1,0 +1,811 @@
+- main [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - button "Toggle Sidebar" [ref=e10] [cursor=pointer]:
+        - img "squarehalf_dualtone" [ref=e12]
+      - navigation "Main Navigation" [ref=e16]:
+        - button "Unstop Logo" [ref=e18] [cursor=pointer]:
+          - img "Unstop Logo" [ref=e19]
+        - generic [ref=e24]:
+          - img "Global Search" [ref=e25]
+          - textbox "Global Search" [ref=e26]:
+            - /placeholder: Search Opportunities
+        - generic [ref=e27]:
+          - button "Login" [ref=e29] [cursor=pointer]
+          - button "For Business" [ref=e31] [cursor=pointer]:
+            - generic [ref=e34]: For Business
+    - generic [ref=e35]:
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - list [ref=e39]:
+            - listitem [ref=e40]:
+              - button "Talent" [ref=e41] [cursor=pointer]:
+                - img "user-color" [ref=e44]
+                - generic [ref=e45]: Talent
+            - listitem [ref=e46]:
+              - button "Mentor" [ref=e47] [cursor=pointer]:
+                - img "mentor-color" [ref=e50]
+                - generic [ref=e51]: Mentor
+            - listitem [ref=e52]:
+              - button "Recruiter" [ref=e53] [cursor=pointer]:
+                - img "search-color" [ref=e56]
+                - generic [ref=e57]: Recruiter
+          - listitem [ref=e59]:
+            - button "Login" [ref=e60] [cursor=pointer]:
+              - img [ref=e62]
+              - generic: Login
+        - navigation "Main Navigation" [ref=e68]:
+          - button "Host" [ref=e70] [cursor=pointer]
+          - list [ref=e74]:
+            - listitem [ref=e75]:
+              - listitem [ref=e76]:
+                - link "Home":
+                  - /url: /
+                  - generic:
+                    - img
+                  - generic: Home
+            - listitem [ref=e77]:
+              - listitem [ref=e78]:
+                - link "Internships" [ref=e79] [cursor=pointer]:
+                  - /url: /internship
+                  - img [ref=e81]
+                  - generic: Internships
+            - listitem [ref=e84]:
+              - listitem [ref=e85]:
+                - link "Jobs" [ref=e86] [cursor=pointer]:
+                  - /url: /job
+                  - img [ref=e88]
+                  - generic: Jobs
+            - listitem [ref=e91]:
+              - listitem [ref=e92]:
+                - link "Competitions" [ref=e93] [cursor=pointer]:
+                  - /url: /competitions
+                  - img [ref=e95]
+                  - generic: Competitions
+            - listitem [ref=e98]:
+              - listitem [ref=e99]:
+                - link "Mentorship" [ref=e100] [cursor=pointer]:
+                  - /url: /mentor
+                  - img [ref=e102]
+                  - generic: Mentorship
+            - listitem [ref=e106]:
+              - listitem [ref=e107]:
+                - link "Mock Tests" [ref=e108] [cursor=pointer]:
+                  - /url: /practice/ai-powered-role-based-mock-tests
+                  - img [ref=e110]
+                  - generic: Mock Tests
+            - listitem [ref=e116]:
+              - listitem [ref=e117]:
+                - link "Mock Interview" [ref=e118] [cursor=pointer]:
+                  - /url: /practice/ai-mock-interview
+                  - img [ref=e120]
+                  - generic: Mock Interview
+            - listitem [ref=e123]:
+              - listitem [ref=e124]:
+                - link "100 Days to Code" [ref=e125] [cursor=pointer]:
+                  - /url: /practice/100-days-of-code
+                  - img [ref=e127]
+                  - generic: 100 Days to Code
+            - listitem [ref=e130]:
+              - listitem [ref=e131]:
+                - link "Courses" [ref=e132] [cursor=pointer]:
+                  - /url: /courses
+                  - img [ref=e134]
+                  - generic: Courses
+            - listitem [ref=e139]:
+              - listitem [ref=e140]:
+                - button "More" [ref=e141] [cursor=pointer]:
+                  - img [ref=e143]
+                  - generic: More
+      - generic [ref=e149]:
+        - generic [ref=e150]:
+          - generic [ref=e152]:
+            - generic [ref=e153]:
+              - heading "Unlock Your Career!" [level=1] [ref=e154]:
+                - text: Unlock Your
+                - strong [ref=e155]: Career!
+              - generic [ref=e156]:
+                - img "https://d8it4huxumps7" [ref=e158]
+                - generic [ref=e159]:
+                  - text: Access to
+                  - strong [ref=e160]: 850M+
+                  - text: profiles
+            - generic [ref=e162]:
+              - link "Internships Internships" [ref=e163] [cursor=pointer]:
+                - /url: /internship
+                - generic [ref=e164]: Internships
+                - img "Internships" [ref=e166]
+              - link "Jobs Jobs" [ref=e167] [cursor=pointer]:
+                - /url: /job
+                - generic [ref=e168]: Jobs
+                - img "Jobs" [ref=e170]
+              - link "Competitions Competitions" [ref=e171] [cursor=pointer]:
+                - /url: /competitions
+                - generic [ref=e172]: Competitions
+                - img "Competitions" [ref=e174]
+              - link "Mock Tests AI Mock Tests" [ref=e175] [cursor=pointer]:
+                - /url: /practice/ai-powered-role-based-mock-tests
+                - generic [ref=e176]:
+                  - text: Mock Tests
+                  - img "AI" [ref=e177]
+                - img "Mock Tests" [ref=e179]
+              - link "Mock Interviews Mock Interviews" [ref=e180] [cursor=pointer]:
+                - /url: /practice/ai-mock-interview
+                - generic [ref=e181]: Mock Interviews
+                - img "Mock Interviews" [ref=e183]
+              - link "Mentorships Mentorships" [ref=e184] [cursor=pointer]:
+                - /url: /mentor
+                - generic [ref=e185]: Mentorships
+                - img "Mentorships" [ref=e187]
+              - link "Courses AI Courses" [ref=e188] [cursor=pointer]:
+                - /url: /courses
+                - generic [ref=e189]:
+                  - text: Courses
+                  - img "AI" [ref=e190]
+                - img "Courses" [ref=e192]
+              - link "100 Days to Code 100 Days to Code" [ref=e193] [cursor=pointer]:
+                - /url: /practice/100-days-of-code
+                - generic [ref=e194]: 100 Days to Code
+                - img "100 Days to Code" [ref=e196]
+          - generic [ref=e197]:
+            - generic [ref=e198]:
+              - heading "Featured" [level=2] [ref=e199]
+              - generic [ref=e203]:
+                - generic [ref=e207]:
+                  - link "Asian Paints Alchemy 2026 Online Free Asian Paints Alchemy 2026" [ref=e209] [cursor=pointer]:
+                    - img "Asian Paints Alchemy 2026" [ref=e211]
+                    - generic [ref=e212]:
+                      - generic [ref=e214]:
+                        - generic [ref=e215]: Online
+                        - generic [ref=e216]: Free
+                      - heading "Asian Paints Alchemy 2026" [level=3] [ref=e220]
+                  - link "Register Now Pep Sales Stars" [ref=e222] [cursor=pointer]:
+                    - generic [ref=e224]:
+                      - generic [ref=e227]: Register Now
+                      - heading "Pep Sales Stars" [level=3] [ref=e228]
+                  - link "Unstop CLUBVERSE 2026 Online Free Unstop CLUBVERSE 2026" [ref=e230] [cursor=pointer]:
+                    - img "Unstop CLUBVERSE 2026" [ref=e232]
+                    - generic [ref=e233]:
+                      - generic [ref=e235]:
+                        - generic [ref=e236]: Online
+                        - generic [ref=e237]: Free
+                      - heading "Unstop CLUBVERSE 2026" [level=3] [ref=e241]
+                  - link "Register Now! Accenture B-School Challenge Season 10" [ref=e243] [cursor=pointer]:
+                    - generic [ref=e245]:
+                      - generic [ref=e248]: Register Now!
+                      - heading "Accenture B-School Challenge Season 10" [level=3] [ref=e249]
+                  - link "Register Now Airtel iCreate 2026" [ref=e251] [cursor=pointer]:
+                    - generic [ref=e253]:
+                      - generic [ref=e256]: Register Now
+                      - heading "Airtel iCreate 2026" [level=3] [ref=e257]
+                  - link "Register Now Join our Event on July 10" [ref=e259] [cursor=pointer]:
+                    - generic [ref=e261]:
+                      - generic [ref=e264]: Register Now
+                      - heading "Join our Event on July 10" [level=3] [ref=e265]
+                  - link "Unstop Quizverse 2026 Online Free Unstop Quizverse 2026" [ref=e267] [cursor=pointer]:
+                    - img "Unstop Quizverse 2026" [ref=e269]
+                    - generic [ref=e270]:
+                      - generic [ref=e272]:
+                        - generic [ref=e273]: Online
+                        - generic [ref=e274]: Free
+                      - heading "Unstop Quizverse 2026" [level=3] [ref=e278]
+                  - link "Register Now Join our Exclusive Event on August 18" [ref=e280] [cursor=pointer]:
+                    - generic [ref=e282]:
+                      - generic [ref=e285]: Register Now
+                      - heading "Join our Exclusive Event on August 18" [level=3] [ref=e286]
+                  - link "Register Now RPG Outperform" [ref=e288] [cursor=pointer]:
+                    - generic [ref=e290]:
+                      - generic [ref=e293]: Register Now
+                      - heading "RPG Outperform" [level=3] [ref=e294]
+                  - link "Register Now! Colgate Transcend 2026" [ref=e296] [cursor=pointer]:
+                    - generic [ref=e298]:
+                      - generic [ref=e301]: Register Now!
+                      - heading "Colgate Transcend 2026" [level=3] [ref=e302]
+                  - link "Aditya Birla Group HeadstaRt 2026 Online Free Aditya Birla Group HeadstaRt 2026" [ref=e304] [cursor=pointer]:
+                    - img "Aditya Birla Group HeadstaRt 2026" [ref=e306]
+                    - generic [ref=e307]:
+                      - generic [ref=e309]:
+                        - generic [ref=e310]: Online
+                        - generic [ref=e311]: Free
+                      - heading "Aditya Birla Group HeadstaRt 2026" [level=3] [ref=e315]
+                  - link "Register Now Women Who Master" [ref=e317] [cursor=pointer]:
+                    - generic [ref=e319]:
+                      - generic [ref=e322]: Register Now
+                      - heading "Women Who Master" [level=3] [ref=e323]
+                  - link "Work From Anywhere Free Work From Anywhere" [ref=e325] [cursor=pointer]:
+                    - img "Work From Anywhere" [ref=e327]
+                    - generic [ref=e328]:
+                      - generic [ref=e331]: Free
+                      - heading "Work From Anywhere" [level=3] [ref=e335]
+                  - link "Asian Paints Alchemy 2026 Online Free Asian Paints Alchemy 2026" [ref=e337] [cursor=pointer]:
+                    - img "Asian Paints Alchemy 2026" [ref=e339]
+                    - generic [ref=e340]:
+                      - generic [ref=e342]:
+                        - generic [ref=e343]: Online
+                        - generic [ref=e344]: Free
+                      - heading "Asian Paints Alchemy 2026" [level=3] [ref=e348]
+                  - link "Register Now Pep Sales Stars" [ref=e350] [cursor=pointer]:
+                    - generic [ref=e352]:
+                      - generic [ref=e355]: Register Now
+                      - heading "Pep Sales Stars" [level=3] [ref=e356]
+                  - link "Unstop CLUBVERSE 2026 Online Free Unstop CLUBVERSE 2026" [ref=e358] [cursor=pointer]:
+                    - img "Unstop CLUBVERSE 2026" [ref=e360]
+                    - generic [ref=e361]:
+                      - generic [ref=e363]:
+                        - generic [ref=e364]: Online
+                        - generic [ref=e365]: Free
+                      - heading "Unstop CLUBVERSE 2026" [level=3] [ref=e369]
+                  - link "Register Now! Accenture B-School Challenge Season 10" [ref=e371] [cursor=pointer]:
+                    - generic [ref=e373]:
+                      - generic [ref=e376]: Register Now!
+                      - heading "Accenture B-School Challenge Season 10" [level=3] [ref=e377]
+                  - link "Register Now Airtel iCreate 2026" [ref=e379] [cursor=pointer]:
+                    - generic [ref=e381]:
+                      - generic [ref=e384]: Register Now
+                      - heading "Airtel iCreate 2026" [level=3] [ref=e385]
+                  - link "Register Now Join our Event on July 10" [ref=e387] [cursor=pointer]:
+                    - generic [ref=e389]:
+                      - generic [ref=e392]: Register Now
+                      - heading "Join our Event on July 10" [level=3] [ref=e393]
+                  - link "Unstop Quizverse 2026 Online Free Unstop Quizverse 2026" [ref=e395] [cursor=pointer]:
+                    - img "Unstop Quizverse 2026" [ref=e397]
+                    - generic [ref=e398]:
+                      - generic [ref=e400]:
+                        - generic [ref=e401]: Online
+                        - generic [ref=e402]: Free
+                      - heading "Unstop Quizverse 2026" [level=3] [ref=e406]
+                  - link "Register Now Join our Exclusive Event on August 18" [ref=e408] [cursor=pointer]:
+                    - generic [ref=e410]:
+                      - generic [ref=e413]: Register Now
+                      - heading "Join our Exclusive Event on August 18" [level=3] [ref=e414]
+                  - link "Register Now RPG Outperform" [ref=e416] [cursor=pointer]:
+                    - generic [ref=e418]:
+                      - generic [ref=e421]: Register Now
+                      - heading "RPG Outperform" [level=3] [ref=e422]
+                  - link "Register Now! Colgate Transcend 2026" [ref=e424] [cursor=pointer]:
+                    - generic [ref=e426]:
+                      - generic [ref=e429]: Register Now!
+                      - heading "Colgate Transcend 2026" [level=3] [ref=e430]
+                  - link "Aditya Birla Group HeadstaRt 2026 Online Free Aditya Birla Group HeadstaRt 2026" [ref=e432] [cursor=pointer]:
+                    - img "Aditya Birla Group HeadstaRt 2026" [ref=e434]
+                    - generic [ref=e435]:
+                      - generic [ref=e437]:
+                        - generic [ref=e438]: Online
+                        - generic [ref=e439]: Free
+                      - heading "Aditya Birla Group HeadstaRt 2026" [level=3] [ref=e443]
+                  - link "Register Now Women Who Master" [ref=e445] [cursor=pointer]:
+                    - generic [ref=e447]:
+                      - generic [ref=e450]: Register Now
+                      - heading "Women Who Master" [level=3] [ref=e451]
+                  - link "Work From Anywhere Free Work From Anywhere" [ref=e453] [cursor=pointer]:
+                    - img "Work From Anywhere" [ref=e455]
+                    - generic [ref=e456]:
+                      - generic [ref=e459]: Free
+                      - heading "Work From Anywhere" [level=3] [ref=e463]
+                  - link "Asian Paints Alchemy 2026 Online Free Asian Paints Alchemy 2026" [ref=e465] [cursor=pointer]:
+                    - img "Asian Paints Alchemy 2026" [ref=e467]
+                    - generic [ref=e468]:
+                      - generic [ref=e470]:
+                        - generic [ref=e471]: Online
+                        - generic [ref=e472]: Free
+                      - heading "Asian Paints Alchemy 2026" [level=3] [ref=e476]
+                - generic:
+                  - generic [ref=e477] [cursor=pointer]: keyboard_arrow_left
+                  - generic [ref=e478] [cursor=pointer]: keyboard_arrow_right
+            - generic [ref=e479]:
+              - heading "Trusted by Industry Veterans" [level=2] [ref=e480]:
+                - strong [ref=e481]: Trusted
+                - text: by Industry Veterans
+              - generic [ref=e488]:
+                - img "Abinbe" [ref=e490]
+                - img "Aditya Birla Group" [ref=e492]
+                - img "Amazon" [ref=e494]
+                - img "Boalt" [ref=e496]
+                - img "Ck Birla Group" [ref=e498]
+                - img "Coca Cola" [ref=e500]
+                - img "Flipkart" [ref=e502]
+                - img "Loreal" [ref=e504]
+                - img "Godray" [ref=e506]
+                - img "Juspay" [ref=e508]
+                - generic [ref=e509]:
+                  - img "Kenvue"
+                - generic [ref=e510]:
+                  - img "Mahindra"
+                - generic [ref=e511]:
+                  - img "Mondelez"
+                - generic [ref=e512]:
+                  - img "Myntra"
+                - generic [ref=e513]:
+                  - img "Ola"
+                - generic [ref=e514]:
+                  - img "Pepsico"
+                - generic [ref=e515]:
+                  - img "Reliance"
+                - generic [ref=e516]:
+                  - img "Samsung"
+                - generic [ref=e517]:
+                  - img "Snapdeal"
+                - generic [ref=e518]:
+                  - img "Tata"
+                - generic [ref=e519]:
+                  - img "Hindustan Petroleum logo"
+                - img "Abinbe" [ref=e521]
+          - generic [ref=e522]:
+            - generic [ref=e524]:
+              - heading "Competitions Uncover the most talked-about competitions today." [level=2] [ref=e525]:
+                - text: Competitions
+                - generic [ref=e526]: Uncover the most talked-about competitions today.
+              - button "View All" [ref=e527] [cursor=pointer]:
+                - generic [ref=e528]: View All
+            - generic [ref=e563]:
+              - heading "Internships Unleash internships tailored to your aspirations." [level=2] [ref=e564]:
+                - text: Internships
+                - generic [ref=e565]: Unleash internships tailored to your aspirations.
+              - button "View All" [ref=e566] [cursor=pointer]:
+                - generic [ref=e567]: View All
+            - generic [ref=e602]:
+              - heading "Jobs Unveil jobs designed for your next big move." [level=2] [ref=e603]:
+                - text: Jobs
+                - generic [ref=e604]: Unveil jobs designed for your next big move.
+              - button "View All" [ref=e605] [cursor=pointer]:
+                - generic [ref=e606]: View All
+            - link "Unstop pro banner" [ref=e640] [cursor=pointer]:
+              - /url: /pro
+              - img "Unstop pro banner" [ref=e641]
+            - generic [ref=e643]:
+              - link "100 Days Coding Sprint Level up your skills daily with our 100-Day Coding Sprint Start Now" [ref=e644] [cursor=pointer]:
+                - /url: /practice/100-days-of-code
+                - generic [ref=e645]:
+                  - heading "100 Days Coding Sprint Level up your skills daily with our 100-Day Coding Sprint" [level=2] [ref=e646]:
+                    - generic [ref=e647]:
+                      - strong [ref=e648]: "100"
+                      - text: Days Coding Sprint
+                    - paragraph [ref=e649]:
+                      - text: Level up your skills daily with
+                      - text: our 100-Day Coding Sprint
+                  - button "Start Now" [ref=e650]:
+                    - generic [ref=e651]: Start Now
+              - link "Code Conquest Pick your topics, set your difficulty, and master key concepts with ease! Start Now" [ref=e655] [cursor=pointer]:
+                - /url: /practice/coding
+                - generic [ref=e656]:
+                  - heading "Code Conquest Pick your topics, set your difficulty, and master key concepts with ease!" [level=2] [ref=e657]:
+                    - generic [ref=e658]:
+                      - strong [ref=e659]: Code
+                      - text: Conquest
+                    - paragraph [ref=e660]:
+                      - text: Pick your topics, set your difficulty,
+                      - text: and master key concepts with ease!
+                  - button "Start Now" [ref=e661]:
+                    - generic [ref=e662]: Start Now
+            - heading "AI-Powered Courses Unfold your potential through AI-designed, expert-validated courses." [level=2] [ref=e667]:
+              - text: AI-Powered Courses
+              - generic [ref=e668]: Unfold your potential through AI-designed, expert-validated courses.
+            - generic [ref=e717]:
+              - heading "Profiles" [level=2] [ref=e718]
+              - generic [ref=e719]:
+                - text: "850"
+                - img "Image for Unstop tatal users in millions" [ref=e720]
+              - generic [ref=e721]:
+                - generic [ref=e722]:
+                  - heading "Assessments" [level=3] [ref=e723]
+                  - generic [ref=e724]:
+                    - text: "22.3"
+                    - strong [ref=e725]: M+
+                - generic [ref=e726]:
+                  - heading "Opportunities" [level=3] [ref=e727]
+                  - generic [ref=e728]:
+                    - text: "140"
+                    - strong [ref=e729]: K+
+                - generic [ref=e730]:
+                  - heading "Organisations" [level=3] [ref=e731]
+                  - generic [ref=e732]:
+                    - text: "42"
+                    - strong [ref=e733]: K+
+                - generic [ref=e734]:
+                  - heading "Brands trust us" [level=3] [ref=e735]
+                  - generic [ref=e736]:
+                    - text: "800"
+                    - strong [ref=e737]: +
+                - generic [ref=e738]:
+                  - heading "Countries" [level=3] [ref=e739]
+                  - generic [ref=e740]:
+                    - text: "78"
+                    - strong [ref=e741]: +
+        - generic [ref=e743]:
+          - generic [ref=e746]:
+            - generic [ref=e747]:
+              - img "Unstop blue SVG logo" [ref=e748]
+              - paragraph [ref=e749]:
+                - text: Built with
+                - text: in
+                - strong [ref=e752]: India
+                - text: for the
+                - strong [ref=e753]: world
+            - generic [ref=e754]:
+              - link "Follow on twitter" [ref=e755] [cursor=pointer]:
+                - /url: https://twitter.com/Unstop_World
+                - img "Twitter Icon" [ref=e756]
+              - link "Follow on Instagram" [ref=e757] [cursor=pointer]:
+                - /url: https://www.instagram.com/unstop.world/
+                - img "Instagram Icon" [ref=e758]
+              - link "Follow on LinkedIn" [ref=e759] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/unstop
+                - img "LinkedIn Icon" [ref=e760]
+              - link "Follow on Facebook" [ref=e761] [cursor=pointer]:
+                - /url: https://www.facebook.com/Unstop.world
+                - img "facebook Icon" [ref=e762]
+              - link "Follow on Telegram" [ref=e763] [cursor=pointer]:
+                - /url: https://t.me/+ON15qceSy-IyZjY9
+                - img "telegram Icon" [ref=e764]
+              - link "Follow on Discord" [ref=e765] [cursor=pointer]:
+                - /url: https://discord.com/invite/DvYWXNr4yR
+                - img "Discord Icon" [ref=e766]
+              - link "Follow on YouTube" [ref=e767] [cursor=pointer]:
+                - /url: https://www.youtube.com/c/Unstop_World
+                - img "YouTube Icon" [ref=e768]
+          - generic [ref=e769]:
+            - generic [ref=e771]:
+              - generic [ref=e772]:
+                - generic [ref=e773]:
+                  - generic [ref=e774]:
+                    - heading "Products" [level=4] [ref=e775]
+                    - link "Engage Talent" [ref=e776] [cursor=pointer]:
+                      - /url: /employers/employer-branding
+                    - link "AI Sourcing Agent" [ref=e777] [cursor=pointer]:
+                      - /url: /employers/ai-sourcing-agent
+                    - link "AI Screening Agent" [ref=e778] [cursor=pointer]:
+                      - /url: /employers/ai-screening-agent
+                    - link "AI Assessment Agent" [ref=e779] [cursor=pointer]:
+                      - /url: /employers/ai-assessment-agent
+                    - link "AI Interview Agent" [ref=e780] [cursor=pointer]:
+                      - /url: /employers/ai-interview-agent
+                    - link "AI Proctoring Agent" [ref=e781] [cursor=pointer]:
+                      - /url: /employers/ai-proctoring-agent
+                  - generic [ref=e782]:
+                    - heading "Mentorship" [level=4] [ref=e783]
+                    - link "Be a Mentor" [ref=e784] [cursor=pointer]:
+                      - /url: /mentor/become-mentor
+                    - link "Explore Mentors" [ref=e785] [cursor=pointer]:
+                      - /url: /find-a-mentor
+                    - link "Mentorship FAQs" [ref=e786] [cursor=pointer]:
+                      - /url: /mentor/faqs
+                    - link "Mentorship Blogs" [ref=e787] [cursor=pointer]:
+                      - /url: /t/mentorship-22718
+                  - generic [ref=e788]:
+                    - heading "Our Properties" [level=4] [ref=e789]
+                    - link "Unstop Talent Awards 2026" [ref=e790] [cursor=pointer]:
+                      - /url: /awards/2026
+                    - link "Unstop Talent Meet 2026" [ref=e791] [cursor=pointer]:
+                      - /url: /unstop-talent-meet-2026
+                    - link "Unstop Talent Report 2026" [ref=e792] [cursor=pointer]:
+                      - /url: /talent-report-2026
+                    - link "Education Loan EMI Calculator" [ref=e793] [cursor=pointer]:
+                      - /url: /tools/education-loan-emi-calculator
+                      - text: Education Loan
+                      - text: EMI Calculator
+                    - link "Unstop Igniters Club" [ref=e794] [cursor=pointer]:
+                      - /url: /unstop-igniters-club
+                    - link "Online Quizzing Festival" [ref=e795] [cursor=pointer]:
+                      - /url: /online-quizzing-festival
+                  - generic [ref=e796]:
+                    - heading "Legal" [level=4] [ref=e797]
+                    - link "Terms & Conditions" [ref=e798] [cursor=pointer]:
+                      - /url: https://unstop.com/legal/terms-of-use
+                    - link "Privacy Policy" [ref=e799] [cursor=pointer]:
+                      - /url: https://unstop.com/legal/privacy-policy
+                    - link "Sitemap" [ref=e800] [cursor=pointer]:
+                      - /url: /directory/competitions/a/1
+                - generic [ref=e801]:
+                  - generic [ref=e802]:
+                    - heading "Participate" [level=4] [ref=e803]
+                    - link "Competitions & Challenges" [ref=e804] [cursor=pointer]:
+                      - /url: /competitions
+                    - link "Assessments" [ref=e805] [cursor=pointer]:
+                      - /url: /quiz
+                    - link "Hackathons" [ref=e806] [cursor=pointer]:
+                      - /url: /hackathons
+                    - link "Workshops & Webinars" [ref=e807] [cursor=pointer]:
+                      - /url: /workshops
+                    - link "Conferences" [ref=e808] [cursor=pointer]:
+                      - /url: /conferences
+                    - link "Cultural Events" [ref=e809] [cursor=pointer]:
+                      - /url: /events
+                    - link "College Festivals" [ref=e810] [cursor=pointer]:
+                      - /url: /college-fests
+                  - generic [ref=e811]:
+                    - heading "Apply" [level=4] [ref=e812]
+                    - link "Internships" [ref=e813] [cursor=pointer]:
+                      - /url: /internship
+                    - link "Jobs" [ref=e814] [cursor=pointer]:
+                      - /url: /job
+                    - link "Scholarships" [ref=e815] [cursor=pointer]:
+                      - /url: /scholarships
+                    - link "Summer Internships" [ref=e816] [cursor=pointer]:
+                      - /url: /internship/summer
+                    - link "PPO Internships" [ref=e817] [cursor=pointer]:
+                      - /url: /internship/ppo
+                    - link "Government Jobs" [ref=e818] [cursor=pointer]:
+                      - /url: /job/government-jobs
+                    - link "Government Internship" [ref=e819] [cursor=pointer]:
+                      - /url: /internship/government-internship
+                    - link "International Internships" [ref=e820] [cursor=pointer]:
+                      - /url: /internship/international
+                  - generic [ref=e821]:
+                    - heading "For Business" [level=4] [ref=e822]
+                    - link "Clientele" [ref=e823] [cursor=pointer]:
+                      - /url: /employers/clients
+                    - link "Partner With Us" [ref=e824] [cursor=pointer]:
+                      - /url: /our-partners/become-a-partner
+                    - link "Partners" [ref=e825] [cursor=pointer]:
+                      - /url: /our-partners
+                    - link "Testimonials" [ref=e826] [cursor=pointer]:
+                      - /url: /employers/testimonials
+                    - link "Case Studies" [ref=e827] [cursor=pointer]:
+                      - /url: /employers/case-studies
+                    - link "Post now" [ref=e828] [cursor=pointer]:
+                      - /url: /post-now
+                - generic [ref=e829]:
+                  - generic [ref=e830]:
+                    - heading "Learn" [level=4] [ref=e831]
+                    - link "Courses" [ref=e832] [cursor=pointer]:
+                      - /url: /courses
+                    - link "Articles" [ref=e833] [cursor=pointer]:
+                      - /url: /blog
+                    - link "Blog Series" [ref=e834] [cursor=pointer]:
+                      - /url: /blog-series
+                    - link "Workshops" [ref=e835] [cursor=pointer]:
+                      - /url: /workshops
+                    - link "Resources" [ref=e836] [cursor=pointer]:
+                      - /url: /resources
+                  - generic [ref=e837]:
+                    - heading "Practice" [level=4] [ref=e838]
+                    - link "5 Days Interview Prep" [ref=e839] [cursor=pointer]:
+                      - /url: /college-fests/5dayinterviewprep-unstop-254952
+                    - link "Code & Ace Hiring Assessments" [ref=e840] [cursor=pointer]:
+                      - /url: /practice/coding
+                      - text: Code & Ace Hiring
+                      - text: Assessments
+                    - link "100-Day of Coding Sprint" [ref=e841] [cursor=pointer]:
+                      - /url: /practice/100-days-of-code
+                      - text: 100-Day of Coding
+                      - text: Sprint
+                  - generic [ref=e842]:
+                    - heading "Others" [level=4] [ref=e843]
+                    - button "About Us" [ref=e844] [cursor=pointer]
+                    - link "Careers" [ref=e845] [cursor=pointer]:
+                      - /url: /about/unstop-careers
+                    - link "Life at Unstop" [ref=e846] [cursor=pointer]:
+                      - /url: /about/life-at-unstop
+                    - button "FAQs" [ref=e847] [cursor=pointer]
+                    - link "Branding Guidelines" [ref=e848] [cursor=pointer]:
+                      - /url: /our-partners/branding-guidelines
+                    - link "Unstop Rewards Program" [ref=e849] [cursor=pointer]:
+                      - /url: /unstop-rewards-program
+                    - link "Unstop on Shark Tank" [ref=e850] [cursor=pointer]:
+                      - /url: /unstoppitchsharktank
+                    - link "Refer & Earn" [ref=e851] [cursor=pointer]:
+                      - /url: /refer-and-earn
+                    - link "Unstop Campus Ambassador Program" [ref=e852] [cursor=pointer]:
+                      - /url: /campus-ambassador-program
+                    - button "Request a Feature" [ref=e853] [cursor=pointer]
+                    - link "Build your Resume" [ref=e854] [cursor=pointer]:
+                      - /url: /resume-builder
+              - generic [ref=e855]:
+                - link "we are hiring" [ref=e856] [cursor=pointer]:
+                  - /url: about/unstop-careers
+                  - img "we are hiring" [ref=e857]
+                - generic [ref=e858]:
+                  - link "Contact Us arrow_upward_right" [ref=e859] [cursor=pointer]:
+                    - /url: /contact-us
+                    - text: Contact Us
+                    - img "arrow_upward_right" [ref=e861]
+                  - link "Share Your Story Now arrow_upward_right" [ref=e862] [cursor=pointer]:
+                    - /url: /share-your-story-and-get-featured
+                    - text: Share Your Story Now
+                    - img "arrow_upward_right" [ref=e864]
+                  - generic [ref=e865]:
+                    - heading "Stay Updated" [level=4] [ref=e866]
+                    - paragraph [ref=e867]: Get regular updates on opportunities/jobs to showcase your talent and get hired.
+                    - link "Subscribe to our newsletter! send" [ref=e869] [cursor=pointer]:
+                      - /url: /about/newsletter
+                      - text: Subscribe to our newsletter!
+                      - emphasis [ref=e870]: send
+                - generic [ref=e873]:
+                  - link "Download Unstop Apps on Google Play":
+                    - /url: https://play.google.com/store/apps/details?id=com.dare2compete.app
+                    - img "Unstop apk logo"
+                  - link "Download Unstop Apps on App Store":
+                    - /url: https://apps.apple.com/in/app/unstop-formerly-dare2compete/id1601170365
+                    - img "Unstop app logo"
+            - generic [ref=e875]:
+              - generic [ref=e876]:
+                - heading "Jobs by Location" [level=2] [ref=e877]
+                - generic [ref=e878]:
+                  - link "Jobs in Hyderabad" [ref=e879] [cursor=pointer]:
+                    - /url: /job/jobs-in-hyderabad
+                  - link "Jobs in Bangalore" [ref=e880] [cursor=pointer]:
+                    - /url: /job/jobs-in-bangalore
+                  - link "Jobs in Mumbai" [ref=e881] [cursor=pointer]:
+                    - /url: /job/jobs-in-mumbai
+                  - link "Jobs in Delhi" [ref=e882] [cursor=pointer]:
+                    - /url: /job/jobs-in-delhi
+                  - link "Jobs in Kolkata" [ref=e883] [cursor=pointer]:
+                    - /url: /job/jobs-in-kolkata
+                  - link "Jobs in Chennai" [ref=e884] [cursor=pointer]:
+                    - /url: /job/jobs-in-chennai
+                  - link "Jobs in Pune" [ref=e885] [cursor=pointer]:
+                    - /url: /job/jobs-in-pune
+                  - link "Jobs in Ahmedabad" [ref=e886] [cursor=pointer]:
+                    - /url: /job/jobs-in-ahmedabad
+                  - link "Jobs in Jaipur" [ref=e887] [cursor=pointer]:
+                    - /url: /job/jobs-in-jaipur
+                  - link "Jobs in Chandigarh" [ref=e888] [cursor=pointer]:
+                    - /url: /job/jobs-in-chandigarh
+                  - link "Jobs in Noida" [ref=e889] [cursor=pointer]:
+                    - /url: /job/jobs-in-noida
+                  - link "Jobs in Gurgaon" [ref=e890] [cursor=pointer]:
+                    - /url: /job/jobs-in-gurgaon
+              - generic:
+                - heading "Skill based jobs" [level=2]
+                - generic:
+                  - link "Content Writing Jobs" [ref=e891] [cursor=pointer]:
+                    - /url: /job/content-writing-jobs
+                  - link "Digital Marketing Jobs" [ref=e892] [cursor=pointer]:
+                    - /url: /job/digital-marketing-jobs
+                  - link "Data Science Jobs" [ref=e893] [cursor=pointer]:
+                    - /url: /job/data-science-jobs
+                  - link "Accounting Jobs" [ref=e894] [cursor=pointer]:
+                    - /url: /job/accounting-jobs
+                  - link "Backend Developer Jobs" [ref=e895] [cursor=pointer]:
+                    - /url: /job/backend-development-jobs
+                  - link "Electrical Engineer Jobs" [ref=e896] [cursor=pointer]:
+                    - /url: /job/electrical-engineer-jobs
+                  - link "Frontend Developer Jobs" [ref=e897] [cursor=pointer]:
+                    - /url: /job/frontend-development-jobs
+                  - link "Graphic Designer Jobs" [ref=e898] [cursor=pointer]:
+                    - /url: /job/graphic-design-jobs
+                  - link "Growth Marketing Jobs" [ref=e899] [cursor=pointer]:
+                    - /url: /job/growth-marketing-jobs
+                  - link "Machine Learning Jobs" [ref=e900] [cursor=pointer]:
+                    - /url: /job/machine-learning-engineering-jobs
+                  - link "Mechanical Engineer Jobs" [ref=e901] [cursor=pointer]:
+                    - /url: /job/mechanical-engineer-jobs
+                  - link "Civil Engineer Jobs" [ref=e902] [cursor=pointer]:
+                    - /url: /job/civil-engineer-jobs
+              - generic:
+                - heading "Internships by Location" [level=2]
+                - generic:
+                  - link "Internship in Bangalore" [ref=e903] [cursor=pointer]:
+                    - /url: /internship/internship-in-bangalore
+                  - link "Internship in Chennai" [ref=e904] [cursor=pointer]:
+                    - /url: /internship/internship-in-chennai
+                  - link "Internship in Pune" [ref=e905] [cursor=pointer]:
+                    - /url: /internship/internship-in-pune
+                  - link "Internship in Hyderabad" [ref=e906] [cursor=pointer]:
+                    - /url: /internship/internship-in-hyderabad
+                  - link "Internship in Delhi" [ref=e907] [cursor=pointer]:
+                    - /url: /internship/internship-in-delhi
+                  - link "Internship in Mumbai" [ref=e908] [cursor=pointer]:
+                    - /url: /internship/internship-in-mumbai
+                  - link "Internship in Noida" [ref=e909] [cursor=pointer]:
+                    - /url: /internship/internship-in-noida
+                  - link "Internship in Jaipur" [ref=e910] [cursor=pointer]:
+                    - /url: /internship/internship-in-jaipur
+                  - link "Internship in Chandigarh" [ref=e911] [cursor=pointer]:
+                    - /url: /internship/internship-in-chandigarh
+                  - link "Internship in Coimbatore" [ref=e912] [cursor=pointer]:
+                    - /url: /internship/internship-in-coimbatore
+                  - link "Internship in Ahmedabad" [ref=e913] [cursor=pointer]:
+                    - /url: /internship/internship-in-ahmedabad
+                  - link "Internship in Kolkata" [ref=e914] [cursor=pointer]:
+                    - /url: /internship/internship-in-kolkata
+              - generic:
+                - heading "Skill based internships" [level=2]
+                - generic:
+                  - link "Data Analysis Internships" [ref=e915] [cursor=pointer]:
+                    - /url: /internship/data-analysis-internship
+                  - link "Data Science Internships" [ref=e916] [cursor=pointer]:
+                    - /url: /internship/data-science-internship
+                  - link "Software Development Internships" [ref=e917] [cursor=pointer]:
+                    - /url: /internship/software-development-internship
+                  - link "Digital Marketing Internships" [ref=e918] [cursor=pointer]:
+                    - /url: /internship/digital-marketing-internship
+                  - link "Web Development Internships" [ref=e919] [cursor=pointer]:
+                    - /url: /internship/web-development-internship
+                  - link "UI/UX Internships" [ref=e920] [cursor=pointer]:
+                    - /url: /internship/uiux-design-internship
+                  - link "HR Internships" [ref=e921] [cursor=pointer]:
+                    - /url: /internship/human-resources-hr-internship
+                  - link "Finance Internships" [ref=e922] [cursor=pointer]:
+                    - /url: /internship/finance-internship
+                  - link "DevOps Internships" [ref=e923] [cursor=pointer]:
+                    - /url: /internship/devops-internship
+                  - link "AI Internships" [ref=e924] [cursor=pointer]:
+                    - /url: /internship/artificial-intelligence-internship
+                  - link "Graphic Design Internship" [ref=e925] [cursor=pointer]:
+                    - /url: /internship/graphic-design-internship
+              - generic:
+                - heading "Work from Home Jobs" [level=2]
+                - generic:
+                  - link "Work from Home Jobs in Bangalore" [ref=e926] [cursor=pointer]:
+                    - /url: /job/work-from-home-jobs-in-bangalore
+                  - link "Work from Home Jobs in Chennai" [ref=e927] [cursor=pointer]:
+                    - /url: /job/work-from-home-jobs-in-chennai
+                  - link "Work from Home Jobs in Hyderabad" [ref=e928] [cursor=pointer]:
+                    - /url: /job/work-from-home-jobs-in-hyderabad
+                  - link "Work from Home Jobs in Delhi" [ref=e929] [cursor=pointer]:
+                    - /url: /job/work-from-home-jobs-in-delhi
+                  - link "Work from Home Jobs in Pune" [ref=e930] [cursor=pointer]:
+                    - /url: /job/work-from-home-jobs-in-pune
+                  - link "Work from Home Jobs in Mumbai" [ref=e931] [cursor=pointer]:
+                    - /url: /job/work-from-home-jobs-in-mumbai
+                  - link "Work from Home Jobs in Kolkata" [ref=e932] [cursor=pointer]:
+                    - /url: /job/work-from-home-jobs-in-kolkata
+                  - link "Work from Home Jobs in Ahmedabad" [ref=e933] [cursor=pointer]:
+                    - /url: /job/work-from-home-jobs-in-ahmedabad
+                  - link "Work from Home Jobs in Noida" [ref=e934] [cursor=pointer]:
+                    - /url: /job/work-from-home-jobs-in-noida
+                  - link "Work from Home Jobs in Jaipur" [ref=e935] [cursor=pointer]:
+                    - /url: /job/work-from-home-jobs-in-jaipur
+                  - link "Work from Home Jobs in Chandigarh" [ref=e936] [cursor=pointer]:
+                    - /url: /job/work-from-home-jobs-in-chandigarh
+                  - link "Work from Home Jobs in Coimbatore" [ref=e937] [cursor=pointer]:
+                    - /url: /job/work-from-home-jobs-in-coimbatore
+              - generic:
+                - heading "Mentorship from Industry Experts" [level=2]
+                - generic:
+                  - link "CV Review" [ref=e938] [cursor=pointer]:
+                    - /url: /find-a-mentor?skills=resume-cv-review:career-advice
+                  - link "MBA Preparation" [ref=e939] [cursor=pointer]:
+                    - /url: /find-a-mentor?skills=cat-preparation:xat-preparation
+                  - link "Case Competition" [ref=e940] [cursor=pointer]:
+                    - /url: /find-a-mentor?skills=case-study-competitions-and-innovation-challenges
+                  - link "Placement Support" [ref=e941] [cursor=pointer]:
+                    - /url: /find-a-mentor?skills=placement-support
+                  - link "Interview Preparation" [ref=e942] [cursor=pointer]:
+                    - /url: /find-a-mentor?skills=mock-interviews:interview-preparation:interview-preparations:how-to-get-high-impact-jobs-vcs-strategy
+                  - link "Career Guidance" [ref=e943] [cursor=pointer]:
+                    - /url: /find-a-mentor?skills=career-development:career-growth:career-coaching:career-advice
+                  - link "Personal Branding" [ref=e944] [cursor=pointer]:
+                    - /url: /find-a-mentor?skills=personal-branding-on-linkedin-and-other-social-media-platforms:public-speaking
+                  - link "Study Abroad" [ref=e945] [cursor=pointer]:
+                    - /url: /find-a-mentor?skills=study-abroad:gmat-gre-preparation
+                  - link "Coding & Software" [ref=e946] [cursor=pointer]:
+                    - /url: /find-a-mentor?skills=coding:hackathons-and-coding-challenges:software-development:software-engineering:software-architecture:mobile-app-development:web-development:product-development:c:programming-languages:programming:prototyping
+              - generic:
+                - heading "Practice" [level=2]
+                - generic:
+                  - link "Skill Based Mock Assessments" [ref=e947] [cursor=pointer]:
+                    - /url: /practice/mock-test
+                  - link "Company Preparation" [ref=e948] [cursor=pointer]:
+                    - /url: /practice/company-preparation
+                  - link "Machine Learning Projects" [ref=e949] [cursor=pointer]:
+                    - /url: /practice/machine-learning-ai-project
+                  - link "AI-Powered Mock Tests" [ref=e950] [cursor=pointer]:
+                    - /url: /practice/ai-powered-role-based-mock-tests
+                  - link "AI-Powered Mock Interview" [ref=e951] [cursor=pointer]:
+                    - /url: /practice/ai-mock-interview
+                  - link "100 Days Coding Sprint" [ref=e952] [cursor=pointer]:
+                    - /url: /practice/100-days-of-code
+                  - link "AI-Powered Skill-Based Mock Tests" [ref=e953] [cursor=pointer]:
+                    - /url: /practice/ai-powered-skill-based-mock-tests
+                  - link "Code Conquest" [ref=e954] [cursor=pointer]:
+                    - /url: /practice/coding
+              - generic [ref=e955] [cursor=pointer]:
+                - text: View More
+                - emphasis [ref=e956]: keyboard_arrow_down
+            - generic [ref=e958]:
+              - paragraph [ref=e959]:
+                - text: Copyright © 2026
+                - link "FLIVE Consulting Pvt Ltd" [ref=e960] [cursor=pointer]:
+                  - /url: /
+                - text: "- All rights reserved."
+              - generic [ref=e961]:
+                - paragraph [ref=e962]: "Unstop Version: 7.9.2026.17.18"
+                - paragraph [ref=e963]: Best Viewed in Latest Versions of Edge, Mozilla, Chrome, Opera & Safari.
+            - generic [ref=e965]:
+              - img "100% safe & seure payment, secure, razoray Icon" [ref=e967]
+              - generic [ref=e968]:
+                - img "GDPR" [ref=e969]
+                - img "ISO 27001" [ref=e970]
+                - img "ISO 9001" [ref=e971]

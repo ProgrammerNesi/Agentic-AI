@@ -1,0 +1,120 @@
+- main [ref=f1e7]:
+  - generic [ref=f1e8]:
+    - generic [ref=f1e9]:
+      - button "Toggle Sidebar" [ref=f1e12] [cursor=pointer]:
+        - img "squarehalf_dualtone" [ref=f1e14]
+      - navigation "Main Navigation" [ref=f1e18]:
+        - button "Unstop Logo" [ref=f1e20] [cursor=pointer]:
+          - img "Unstop Logo" [ref=f1e21]
+        - generic [ref=f1e26]:
+          - img "Global Search" [ref=f1e27]
+          - textbox "Global Search" [ref=f1e28]:
+            - /placeholder: Search Opportunities
+        - button "For Business" [ref=f1e31] [cursor=pointer]:
+          - generic [ref=f1e34]: For Business
+    - generic [ref=f1e35]:
+      - generic [ref=f1e37]:
+        - generic [ref=f1e38]:
+          - list [ref=f1e39]:
+            - listitem [ref=f1e40]:
+              - button "Talent" [ref=f1e41] [cursor=pointer]:
+                - img "user-color" [ref=f1e44]
+                - generic [ref=f1e45]: Talent
+            - listitem [ref=f1e46]:
+              - button "Mentor" [ref=f1e47] [cursor=pointer]:
+                - img "mentor-color" [ref=f1e50]
+                - generic [ref=f1e51]: Mentor
+            - listitem [ref=f1e52]:
+              - button "Recruiter" [ref=f1e53] [cursor=pointer]:
+                - img "search-color" [ref=f1e56]
+                - generic [ref=f1e57]: Recruiter
+          - generic [ref=f1e58]:
+            - listitem [ref=f1e59]:
+              - button "Notification" [ref=f1e60] [cursor=pointer]:
+                - generic [ref=f1e61]: Notification
+            - listitem [ref=f1e62]:
+              - button "Chat" [ref=f1e63] [cursor=pointer]:
+                - generic [ref=f1e64]: Chat
+            - button "User Profile" [ref=f1e66] [cursor=pointer]:
+              - img "User avatar icon" [ref=f1e68]
+              - generic [ref=f1e70]: Nasir Yousuf
+        - navigation "Main Navigation" [ref=f1e75]:
+          - button "Host" [ref=f1e77] [cursor=pointer]
+          - list [ref=f1e81]:
+            - listitem [ref=f1e82]:
+              - listitem [ref=f1e83]:
+                - link "Home" [ref=f1e84] [cursor=pointer]:
+                  - /url: /
+                  - generic [ref=f1e85]: Home
+            - listitem [ref=f1e86]:
+              - listitem [ref=f1e87]:
+                - link "Internships" [ref=f1e88] [cursor=pointer]:
+                  - /url: /internship
+                  - generic [ref=f1e89]: Internships
+            - listitem [ref=f1e90]:
+              - listitem [ref=f1e91]:
+                - link "Jobs" [ref=f1e92] [cursor=pointer]:
+                  - /url: /job
+                  - generic [ref=f1e93]: Jobs
+            - listitem [ref=f1e94]:
+              - listitem [ref=f1e95]:
+                - link "Competitions" [ref=f1e96] [cursor=pointer]:
+                  - /url: /competitions
+                  - generic [ref=f1e97]: Competitions
+            - listitem [ref=f1e98]:
+              - listitem [ref=f1e99]:
+                - link "Mentorship" [ref=f1e100] [cursor=pointer]:
+                  - /url: /mentor
+                  - generic [ref=f1e101]: Mentorship
+            - listitem [ref=f1e102]:
+              - listitem [ref=f1e103]:
+                - link "Mock Tests" [ref=f1e104] [cursor=pointer]:
+                  - /url: /practice/ai-powered-role-based-mock-tests
+                  - generic [ref=f1e105]: Mock Tests
+            - listitem [ref=f1e106]:
+              - listitem [ref=f1e107]:
+                - link "Mock Interview" [ref=f1e108] [cursor=pointer]:
+                  - /url: /practice/ai-mock-interview
+                  - generic [ref=f1e109]: Mock Interview
+            - listitem [ref=f1e110]:
+              - listitem [ref=f1e111]:
+                - link "100 Days to Code" [ref=f1e112] [cursor=pointer]:
+                  - /url: /practice/100-days-of-code
+                  - generic [ref=f1e113]: 100 Days to Code
+            - listitem [ref=f1e114]:
+              - listitem [ref=f1e115]:
+                - link "Courses" [ref=f1e116] [cursor=pointer]:
+                  - /url: /courses
+                  - generic [ref=f1e117]: Courses
+            - listitem [ref=f1e118]:
+              - listitem [ref=f1e119]:
+                - button "More" [ref=f1e120] [cursor=pointer]:
+                  - generic [ref=f1e121]: More
+            - listitem [ref=f1e122]:
+              - listitem [ref=f1e123]:
+                - button "My Activity" [ref=f1e124] [cursor=pointer]:
+                  - generic [ref=f1e125]: My Activity
+          - generic [ref=f1e126]:
+            - generic [ref=f1e127]: Other
+            - list [ref=f1e128]:
+              - listitem [ref=f1e129]:
+                - listitem [ref=f1e130]:
+                  - link "Referrals" [ref=f1e131] [cursor=pointer]:
+                    - /url: /user/my-referrals
+                    - generic [ref=f1e132]: Referrals
+              - listitem [ref=f1e133]:
+                - listitem [ref=f1e134]:
+                  - link "Unstop Awards" [ref=f1e135] [cursor=pointer]:
+                    - /url: /user/nominations
+                    - generic [ref=f1e136]: Unstop Awards
+              - listitem [ref=f1e137]:
+                - listitem [ref=f1e138]:
+                  - link "Settings" [ref=f1e139] [cursor=pointer]:
+                    - /url: /user/notifications
+                    - generic [ref=f1e140]: Settings
+              - listitem [ref=f1e141]:
+                - listitem [ref=f1e142]:
+                  - link "Unstop Pro" [ref=f1e143] [cursor=pointer]:
+                    - /url: /user/unstop-pro-subscription
+                    - generic [ref=f1e144]: Unstop Pro
+      - button [ref=f1e170] [cursor=pointer]
